@@ -1,0 +1,111 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/width_dialog_title"
+    android:layout_height="wrap_content"
+    android:background="@drawable/drawable_login"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="@dimen/width_dialog"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_margin="5dp"
+        android:background="@color/blue"
+        android:gravity="center|left"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tv_header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center|left"
+            android:padding="10dp"
+            android:text="CONFIRMATION"
+            android:textColor="@color/md_white_1000"
+            android:textSize="@dimen/title_text_size"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="@dimen/width_dialog"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tv_prompt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="50dp"
+            android:paddingLeft="15dp"
+            android:gravity="center"
+            android:paddingRight="15dp"
+            android:paddingTop="50dp"
+            android:text="asdasdasasdasdasdasdasdasdasdasdasdasdasdasdas"
+            android:textColor="@color/md_black_1000"
+            android:textSize="@dimen/text_size_login"
+            android:textStyle="" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/llt_buttonHolder"
+        android:layout_width="@dimen/width_dialog"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/llt_messageHolder"
+        android:orientation="horizontal"
+        android:padding="10dp"
+        android:splitMotionEvents="false">
+
+        <Button
+            android:id="@+id/btn_ok"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/selector_button"
+            android:clickable="true"
+            android:freezesText="true"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="Yes"
+            android:textColor="@color/md_white_1000"
+            android:textSize="@dimen/text_size_login"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btn_no"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_button"
+            android:clickable="true"
+            android:freezesText="true"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="Later"
+            android:textColor="@color/md_white_1000"
+            android:textSize="@dimen/text_size_login"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btn_extra"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_weight=".3"
+            android:background="@drawable/selector_button"
+            android:clickable="true"
+            android:freezesText="true"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="Yes"
+            android:textColor="@color/md_white_1000"
+            android:textSize="@dimen/text_size_login"
+            android:textStyle="bold"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</LinearLayout>

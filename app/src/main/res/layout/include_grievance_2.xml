@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="2dp"
+            android:layout_gravity="center"
+            android:layout_weight=".5"
+            android:background="@color/blue_workplace" />
+
+       <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="3dp"
+            android:layout_marginTop="3dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="2.1"
+            android:textColor="@color/blue_workplace"
+            android:textSize="@dimen/title_text_size" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="2dp"
+            android:layout_gravity="center"
+            android:layout_weight=".5"
+            android:background="@color/blue_workplace" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="visible">
+
+
+        <com.unilab.workplace.Utitlities.TextViewEx
+            android:id="@+id/tv_grievance_2_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/grievance2_roles_2.1"
+            android:textColor="@color/blue_workplace"
+            android:textSize="@dimen/text_size_buttons" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:visibility="visible">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".1">
+
+
+           <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dp"
+                android:layout_marginTop="5dp"
+                android:layout_weight=".1"
+                android:gravity="center|right"
+                android:text="a. "
+                android:textColor="@color/blue_workplace"
+                android:textSize="@dimen/text_size_buttons" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".8">
+
+            <com.unilab.workplace.Utitlities.TextViewEx
+                android:id="@+id/tv_a_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/grievance2_roles_a"
+                android:textColor="@color/blue_workplace"
+                android:textSize="@dimen/text_size_buttons" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:visibility="visible">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".1">
+
+
+           <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dp"
+                android:layout_marginTop="5dp"
+                android:layout_weight=".1"
+                android:gravity="center|right"
+                android:text="b. "
+                android:textColor="@color/blue_workplace"
+                android:textSize="@dimen/text_size_buttons" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".8">
+
+            <com.unilab.workplace.Utitlities.TextViewEx
+                android:id="@+id/tv_b_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/grievance2_roles_b"
+                android:textColor="@color/blue_workplace"
+                android:textSize="@dimen/text_size_buttons" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:visibility="visible">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".1">
+
+
+           <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dp"
+                android:layout_marginTop="5dp"
+                android:layout_weight=".1"
+                android:gravity="center|right"
+                android:text="c. "
+                android:textColor="@color/blue_workplace"
+                android:textSize="@dimen/text_size_buttons" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".8">
+
+            <com.unilab.workplace.Utitlities.TextViewEx
+                android:id="@+id/tv_c_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/grievance2_roles_c"
+                android:textColor="@color/blue_workplace"
+                android:textSize="@dimen/text_size_buttons" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:visibility="visible">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".1">
+
+
+           <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dp"
+                android:layout_marginTop="5dp"
+                android:layout_weight=".1"
+                android:gravity="center|right"
+                android:text="d. "
+                android:textColor="@color/blue_workplace"
+                android:textSize="@dimen/text_size_buttons" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".8">
+
+            <com.unilab.workplace.Utitlities.TextViewEx
+                android:id="@+id/tv_d_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/grievance2_roles_d"
+                android:textColor="@color/blue_workplace"
+                android:textSize="@dimen/text_size_buttons" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:visibility="visible">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".1">
+
+
+           <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dp"
+                android:layout_marginTop="5dp"
+                android:layout_weight=".1"
+                android:gravity="center|right"
+                android:text="e. "
+                android:textColor="@color/blue_workplace"
+                android:textSize="@dimen/text_size_buttons" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".8">
+
+            <com.unilab.workplace.Utitlities.TextViewEx
+                android:id="@+id/tv_e_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/grievance2_roles_e"
+                android:textColor="@color/blue_workplace"
+                android:textSize="@dimen/text_size_buttons" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="2dp"
+            android:layout_gravity="center"
+            android:layout_weight=".5"
+            android:background="@color/blue_workplace" />
+
+       <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="3dp"
+            android:layout_marginTop="3dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="2.2"
+            android:textColor="@color/blue_workplace"
+            android:textSize="@dimen/title_text_size" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="2dp"
+            android:layout_gravity="center"
+            android:layout_weight=".5"
+            android:background="@color/blue_workplace" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="visible">
+
+
+       <com.unilab.workplace.Utitlities.TextViewEx
+           android:id="@+id/tv_grievance_2_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/grievance2_roles_2.2"
+            android:textColor="@color/blue_workplace"
+            android:textSize="@dimen/text_size_buttons" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:visibility="visible">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".1">
+
+
+           <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight=".1"
+                android:gravity="center|right"
+                android:layout_marginBottom="3dp"
+                android:layout_marginTop="5dp"
+                android:text="a. "
+                android:textColor="@color/blue_workplace"
+                android:textSize="@dimen/text_size_buttons" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".8">
+
+            <com.unilab.workplace.Utitlities.TextViewEx
+                android:id="@+id/tv_eight_rules_a_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/grievance2_roles_2.2_a"
+                android:textColor="@color/blue_workplace"
+                android:textSize="@dimen/text_size_buttons" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:visibility="visible">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".1">
+
+
+           <TextView
+                android:id="@+id/tv_eight_rules_b"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight=".1"
+                android:gravity="center|right"
+                android:layout_marginBottom="3dp"
+                android:layout_marginTop="5dp"
+                android:text="b. "
+                android:textColor="@color/blue_workplace"
+                android:textSize="@dimen/text_size_buttons" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".8">
+
+            <com.unilab.workplace.Utitlities.TextViewEx
+                android:id="@+id/tv_eight_rules_b_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/grievance2_roles_2.2_b"
+                android:textColor="@color/blue_workplace"
+                android:textSize="@dimen/text_size_buttons" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:visibility="visible">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".1">
+
+
+           <TextView
+                android:id="@+id/tv_eight_rules_c"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight=".1"
+                android:gravity="center|right"
+                android:layout_marginBottom="3dp"
+                android:layout_marginTop="5dp"
+                android:text="c. "
+                android:textColor="@color/blue_workplace"
+                android:textSize="@dimen/text_size_buttons" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".8">
+
+            <com.unilab.workplace.Utitlities.TextViewEx
+                android:id="@+id/tv_eight_rules_c_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/grievance2_roles_2.2_c"
+                android:textColor="@color/blue_workplace"
+                android:textSize="@dimen/text_size_buttons" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:visibility="visible">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".1">
+
+
+           <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight=".1"
+                android:gravity="center|right"
+                android:layout_marginBottom="3dp"
+                android:layout_marginTop="5dp"
+                android:text="d. "
+                android:textColor="@color/blue_workplace"
+                android:textSize="@dimen/text_size_buttons" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".8">
+
+            <com.unilab.workplace.Utitlities.TextViewEx
+                android:id="@+id/tv_eight_rules_d_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/grievance2_roles_2.2_d"
+                android:textColor="@color/blue_workplace"
+                android:textSize="@dimen/text_size_buttons" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="2dp"
+            android:layout_gravity="center"
+            android:layout_weight=".5"
+            android:background="@color/blue_workplace" />
+
+       <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="3dp"
+            android:layout_marginTop="3dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="2.3"
+            android:textColor="@color/blue_workplace"
+            android:textSize="@dimen/title_text_size" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="2dp"
+            android:layout_gravity="center"
+            android:layout_weight=".5"
+            android:background="@color/blue_workplace" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="visible">
+
+
+        <com.unilab.workplace.Utitlities.TextViewEx
+            android:id="@+id/tv_text_2_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/grievance2_roles_2.3"
+            android:textColor="@color/blue_workplace"
+            android:textSize="@dimen/text_size_buttons" />
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="2dp"
+            android:layout_gravity="center"
+            android:layout_weight=".5"
+            android:background="@color/blue_workplace" />
+
+       <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="3dp"
+            android:layout_marginTop="3dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="2.4"
+            android:textColor="@color/blue_workplace"
+            android:textSize="@dimen/title_text_size" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="2dp"
+            android:layout_gravity="center"
+            android:layout_weight=".5"
+            android:background="@color/blue_workplace" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="visible">
+
+
+       <com.unilab.workplace.Utitlities.TextViewEx
+           android:id="@+id/tv_grievance_2_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/grievance2_roles_2.4"
+            android:textColor="@color/blue_workplace"
+            android:textSize="@dimen/text_size_buttons" />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
+

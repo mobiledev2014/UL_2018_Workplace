@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_size_login">22dp</dimen>
+    <dimen name="title_text_size">26dp</dimen>
+
+    <dimen name="width_dialog">490dp</dimen>
+    <dimen name="text_size_buttons">20dp</dimen>
+    <dimen name="width_dialog_title">500dp</dimen>
+    <dimen name="dropdown">250dp</dimen>
+    <dimen name="margin_bottom">8dp</dimen>
+    <dimen name="dialog_text">30dp</dimen>
+</resources>

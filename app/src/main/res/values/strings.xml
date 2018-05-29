@@ -1,0 +1,1862 @@
+<resources>
+    <string name="app_name">Workplace Conduct</string>
+
+
+    <string name="employee_number">Employee Number</string>
+    <string name="login">Login</string>
+
+    <string name="code_of_conduct">Code of Conduct</string>
+    <string name="handling_administrative">Guidelines in Handling\n Administrative Cases</string>
+    <string name="grievance_handling">Guidelines in\nGrievance Handling</string>
+    <string name="other_policies">Other Policies</string>
+
+    <string name="font_style_regular">fonts/MyriadPro-Regular.otf</string>
+    <string name="font_style_bold">fonts/MyriadPro-Bold.otf</string>
+
+
+    //How to use the code
+
+    <string name="policy">The Policy is a statement of the basic plan of action to be pursued by the Company and by each employee in the conduct of the Company\'s affairs.</string>
+
+
+
+
+    <string name="scope">The Scope describes the persons, places, objects and events to which the Rules apply. The Scope may also contain exceptions or qualifications to the Rules.</string>
+
+
+    <string name="rules">The Rules describe the particular conduct expected or required of an employee, and specify regulated conduct.</string>
+
+    <string name="rat">The Rationale states the philosophy behind the Policy and each rule of
+        conduct and the fundamental reasons for the Rule.</string>
+
+    <string name="penalties">A violation of any Rule constitutes an offense punishable by a
+corresponding penalty. The corresponding penalties for each offense
+are enumerated at the end of each Section.</string>
+
+
+  <string name="penalties_1">Complementary policies such as the \"Dangerous Drug-Free Workplace Policy\", \"The Anti – Sexual Harassment Policy\" , \"Policy on
+use of Digitized Signatures\" and \"Workplace Breastfeeding Policy\" are also found under Other Policies.</string>
+
+
+    // Health and Sanitation
+
+        <string name="health_policy">It is the policy of the Company to promote employee wellness and
+develop and produce high-quality products.\n\nThe Company believes that unless its employees are well and in good
+physical and mental health, it cannot fully accomplish its business and
+social objective of providing safe, quality and effective drugs for the
+wellness of others.</string>
+
+    <string name="health_rationale">Preserving health and sanitation in the workplace promotes efficiency,
+productivity and continuity of service. It forms part of the Current Good
+Manufacturing Practices (CGMP) that the company must observe in
+order to ensure product integrity.</string>
+
+    <string name="health_scope">These Rules shall apply to all employees, regardless of rank and
+employment status.</string>
+
+    <string name="health_rules_1">Employees shall comply with all directives related to sanitation in
+the workplace and shall keep his / her work area clean and orderly
+as far as practicable. An employee shall properly and safely stow
+any personal belongings and effects.</string>
+
+
+    <string name="health_rules_2">Employees shall not litter the workplace, smudge, smear or write on surfaces, urinate, or defecate or expectorate in unauthorized places; or otherwise violate other conditions of cleanliness and sanitation.</string>
+
+    <string name="health_rules_3">Employees shall keep perishable items in proper workstations in
+sealed containers to avoid pests and shall immediately dispose of spoiled items. he / she shall eat and drink or serve food only in
+authorized areas.</string>
+
+    <string name="health_rules_4">Employees shall as far as practicable maintain proper personal
+hygiene and report to work in the prescribed company attire.</string>
+
+<string name="health_rules_5">Employees entrusted with the handling or storage of chemical
+substances and microorganisms shall take all necessary precautions
+against undue exposure of himself / herself, his / her co-workers, and
+guests to these substances and microorganisms, and shall always
+use the protective gear prescribed by the Company.</string>
+
+    <string name="health_rules_6">Employees entrusted with the handling of laboratory animals shall
+ensure that the animals are secure in their cages or containers and
+free from pest and disease. he / she shall report any animal illness
+or unusual occurrence immediately to the proper Company officer.</string>
+
+    <string name="health_rules_7">An employee who is on medication that causes side effects which
+may adversely affect his / her work shall promptly advise his / her
+immediate superior and his / her co-workers of such fact. Such
+employee shall not operate any type of machinery or equipment or
+handle chemical substances without prior written clearance from
+the Company physician.</string>
+
+    <string name="health_rules_8">An employee shall not use illegal or prohibited substances,
+whether inside or outside Company premises. he / she shall not use
+dangerous drugs except in compliance with a legitimate prescription
+of a duly licensed physician. he / she shall comply with drug testing
+requirements in accordance with government regulations and with
+the Company\'s policy on drug abuse prevention (Refer to Dangerous Drug-Free Workplace Policy.).</string>
+
+    <string name="health_rules_9">An employee shall not smoke within the Company premises except
+in designated areas.</string>
+    <string name="health_rules_10">An employee shall submit himself / herself to annual medical
+examination within the scheduled period and when required by
+management to do so, when there is reason to believe that his / her health poses danger to his / her co-employees, as well as to the
+products of the company.</string>
+
+
+    //Safety and Security
+
+    <string name="safety_policy_1">It is the policy of the Company to ensure that all persons, and all property
+resources of the Company, are safe within its premises and are protected
+from all known and foreseeable security and safety risks, losses and damages.\n\nThe degree of care and diligence required to
+be observed by an employee in the performance of his / her work and in the use of Company property
+depends on the nature of his / her job functions, the circumstances of his / her workplace and physical surroundings, the particular risks of
+damage and injury, and the nature and value of the Company property under his / her responsibility.</string>
+
+    <string name="safety_rationale">The physical survival and wholeness of an individual and of any Company
+resource are basic requirements for efficient and continued service and
+productivity.\n\n\nThese Rules are intended to promote safe working conditions and reduce, if not completely avoid, work – related accidents and the risk of physical injury, disabling injury, psychological harm and death in the workplace, and downtime caused by the impairment, destruction or loss of the tools of the trade and injury to workers.</string>
+
+
+    <string name="safety_scope">These Rules apply to all employees regardless of rank or status of
+employment.</string>
+    <string name="safety_rules_1">An employee must comply with all directives relating to security and safety in the workplace. he / she must observe reasonable care,
+diligence, prudence, and reasonable foresight for the consequence
+of his / her acts in the exercise of his / her functions, in the use of the
+Company property, and in his / her relations with others, with due
+regard to the circumstances present in the work premises.</string>
+    <string name="safety_rules_2">An employee shall not bring into Company premises pets and other
+animals without the proper written authorization from the Security
+and Safety Department.</string>
+    <string name="safety_rules_3">Unless authorized by Management, an employee shall not bring
+into Company premises and work areas any dangerous or deadly
+weapons, explosives, noxious, poisonous, toxic, corrosive, oxidizing,
+radioactive or flammable substance and similar items.</string>
+    <string name="safety_rules_4">An employee shall not bring to the office any personal appliance(s)
+(i.e.: oven toasters, personal refrigerators, TV sets, stereos) without
+prior written clearance from the management.</string>
+    <string name="safety_rules_5">An employee shall use, operate and handle heavy, power–driven,
+fuel–driven, or flame–producing machinery, tools and equipment
+cautiously and only in designated areas, with the appropriate
+license or permit, if any is required, and with written Company
+authorization, and following standard operating procedures.</string>
+    <string name="safety_rules_6">An employee shall wear the safety attire required by government
+regulations and by Company rules in designated work areas at all
+times and shall, when authorized, handle chemical substances and
+microorganisms only in designated areas using the appropriate
+tools and equipment and following safety procedures.</string>
+    <string name="safety_rules_7">An employee shall not remove, destroy, or tamper with any property or equipment in the Company premises intended for safety and
+security purposes, including fire – fighting equipment, or obstruct
+the area where the same are located.</string>
+    <string name="safety_rules_8">An employee shall promptly report to his / her immediate superior
+or the Security and Safety Department any of the following incidents
+within the knowledge occurring within the Company premises and / or its immediate surroundings:\n\n</string>
+    <string name="safety_rules_8_1">Accidents, poisoning, and contamination;\n</string>
+    <string name="safety_rules_8_2">Robbery, theft, physical injury, extortion, blackmail,
+immoral / indecent acts, abduction, and other acts of violence or other criminal acts;\n</string>
+    <string name="safety_rules_8_2_1">immoral / indecent acts, abduction, and other acts of\n</string>
+    <string name="safety_rules_8_2_2">violence or other criminal acts;\n</string>
+    <string name="safety_rules_8_3">Physical or mental illness, and death;\n</string>
+    <string name="safety_rules_8_4">Malfunctioning of equipment, faulty or exposed electric wiring, liquid and gas leaks;\n</string>
+    <string name="safety_rules_8_4_1">electric wiring, liquid and gas leaks;\n</string>
+    <string name="safety_rules_8_5">Explosions, fires and fire hazards; and\n</string>
+    <string name="safety_rules_8_6">Unusual or unnatural sounds, noises and odors.\n</string>
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+
+
+    //Company property and property rights
+    <string name="company_policy">It is the policy of the Company to protect all Company Properties (e.g.
+funds, materials, supplies, and equipment) and enforce all related
+property rights. The Company considers Company Properties and its
+property rights thereto as valuable resources to be prudently utilized
+and managed so that they may contribute to efficiency and productivity.\n\nIt is the policy of the Company to prevent diversion of finished products
+and to ensure their proper distribution to trade and to consumers. All
+company assets should only be used for legitimate business purposes.</string>
+
+    <string name="company_rationale">The Company\'s resources must be used with the required degree of
+care and diligence in order to preserve them for long-term use, avoid
+wastage of consumable resources, and achieve the Company\'s business
+goals and objectives.\n\nThese Rules are intended to:</string>
+    <string name="company_rationale_2">protect all Company Properties and all related legal rights;\n</string>
+    <string name="company_rationale_3">maintain all Company facilities, tools and equipment in good condition;\n</string>
+    <string name="company_rationale_4">ensure continued materials support for production and office use; and\n</string>
+    <string name="company_rationale_5">ensure consistent supply of products to consumers and patients.\n</string>
+
+
+    <string name="company_scope">These Rules apply to all employees regardless of rank and status
+of employment. These Rules apply to all properties of the Company
+including but not limited to:</string>
+
+    <string name="company_scope_a">All types of materials and supplies;\n</string>
+    <string name="company_scope_b">Finished goods;\n</string>
+    <string name="company_scope_c">All types of tools and equipment, including electronic equipment such as computer hardware, cellular phones, and other devices issued by the Company for Company business purposes;\n</string>
+    <string name="company_scope_d">Company issued credit cards and / or fleet card.\n</string>
+    <string name="company_scope_e">Intranet and Internet facilities (the \"Network\");\n</string>
+    <string name="company_scope_f">Software, digital files, systems and databases;\n</string>
+    <string name="company_scope_g">Audio visual equipment;\n</string>
+    <string name="company_scope_h">Company motor vehicles;\n</string>
+    <string name="company_scope_i">Recreational and sports facilities and equipment;\n</string>
+    <string name="company_scope_j">All types of real property, including land, building premises and structures, and all related real property rights;\n</string>
+    <string name="company_scope_k">Product samples, marketing materials and literature; and\n</string>
+    <string name="company_scope_l">Trademarks, copyrights, patents and other intellectual property rights.\n</string>
+    <string name="company_scope_1">All other relevant Company policies, Regulations, Manuals and Audit Guidelines now existing and governing specific Company Properties are
+deemed to form part of these Rules. In the absence of any applicable provision in these Rules, such relevant Company policies, Rule, Manual or Audit Guideline shall apply.\n\nFunds of the Company are Company Property. However, their handling
+shall be governed by Section VII on Business and Transactional Integrity.\n\nThe use and handling of databases, software and systems shall also be governed by Section VI on Handling Information.</string>
+
+    <string name="company_scope_2">Funds of the Company are Company Property. However, their handling
+shall be governed by Section VII on Business and Transactional Integrity.</string>
+    <string name="company_scope_3">The use and handling of databases, software and systems shall also be
+governed by Section VI on Handling Information.</string>
+
+
+    <string name="company_rules_1">An employee shall use Company Properties with the care and
+diligence required by the circumstances of his / her job and in the workplace, the nature and purpose of the Company Properties,
+and applicable laws and government regulations. An employee
+shall be responsible to the Company for any loss of or damage to
+Company Property under his / her responsibility arising from his / her
+fault, negligence, fraud or bad faith. This Rule shall apply also to
+custodians of specific Company Properties.</string>
+
+
+    <string name="company_rules_2">No employee shall steal, or aid in stealing, any Company Property.</string>
+    <string name="company_rules_3">An employee shall avoid wastage of supplies and materials.</string>
+    <string name="company_rules_4">An employee shall respect the Company\'s ownership of the Company
+Properties and its rights and interests thereto. he / she shall not
+dispose of any Company property unless authorized in writing by
+Management.</string>
+    <string name="company_rules_5">An employee shall promptly report any loss or damage to any
+Company Property within his / her knowledge.</string>
+    <string name="company_rules_6">An employee is responsible for product samples, commercial
+stocks, product literature, promotional and other items entrusted
+to him / her for distribution to consumer and medical professionals.
+he / she shall not misuse, misappropriate, or sell them. he / she
+shall distribute them in accordance with the relevant territorial
+coverage plan and / or promotional program. An employee shall be
+accountable for any shortage or loss of such items in his possession.
+Failure of an employee to satisfactory account for such items gives
+rise to a presumption that he / she has misappropriated the same.</string>
+    <string name="company_rules_7">An employee shall use or handle Company Property only for
+authorized purposes, during the authorized period of time, and
+within authorized places.</string>
+    <string name="company_rules_8">An employee shall not divert, or cause or aid in the diversion of finished products from their authorized destination. he / she shall
+not release or cause the release of finished products without proper
+authorization and documentation. he / she shall always comply
+with rules for the proper storage of finished products in order to
+preserve their integrity and prevent degradation.</string>
+    <string name="company_rules_9">An employee to whose care or custody Company Property has been
+assigned shall be primarily responsible for the same, although the
+Company Property is for common use of the employee\'s business
+unit. Line management shall be responsible for providing a secure
+storage area for such Company Property, and for establishing
+a procedure for the monitoring of its use, lending out, physical
+transfer and disposal.</string>
+    <string name="company_rules_10">An employee shall submit all required reports and comply with
+audit procedures pertaining to the Company Property assigned to
+him / her. he / she shall comply with the schedules and procedures
+for the repair and maintenance of said Company Property.</string>
+    <string name="company_rules_11">An employee shall use computer equipment and facilities, including
+intranet and Internet facilities, with care and prudence and for
+authorized purposes only. he / she shall not use the Company\'s
+computer equipment and facilities to download or transmit
+copyrighted material (without the owner\'s consent), or obscene or
+pornographic materials, chain letters, or materials that violate or
+encourage others to violate the law. he / she shall not upload a virus
+or other harmful component or corrupted data, or vandalize any part
+of the Network, or conduct any hacking activity unless authorized
+for system audit purposes, or install or run any unlicensed software.</string>
+    <string name="company_rules_12">An employee shall not use the Network to sell anything for personal
+gain, or to solicit or advertise the sale of any goods or services, or to solicit any contribution or donation for any person or entity, or
+to campaign for any political candidate or party, or to advance the
+cause of any person or organization, or to engage in personal nonwork
+related business.</string>
+    <string name="company_rules_13">An employee shall not obtain and release without authority
+sensitive information related to company trademarks, copyrights,
+patents and other intellectual property rights.</string>
+
+    // Business and workplace conduct
+
+    <string name="business_policy">It is the policy of the Company to maintain professional business
+conduct at all times. Employees are expected to demonstrate respect
+to co-employees and customers. All employees share the responsibility
+of protecting the image and integrity of the company.\n\nThe Company believes that by maintaining professionalism at work,
+employees can serve customers better, relate to one another with
+mutual respect and cooperation, and represent the Company with more
+credibility and effectiveness.</string>
+
+
+    <string name="business_rationale">Observing a clear set of standards of work behavior prevents
+misunderstanding among employees, and between employees and
+customers. Maintaining professionalism and proper decorum in the
+workplace protects employees from socially unacceptable behavior of
+other persons and from distraction.</string>
+
+
+    <string name="business_scope">These Rules apply to all employees regardless of rank and status of
+employment.</string>
+
+
+    <string name="business_rules_1">An employee shall act professionally and in a manner befitting a
+gentleman or a lady.</string>
+
+    <string name="business_2">An employee shall extend to fellow employees all considerations
+and courtesies required by the circumstances. he / she shall not
+make ethnic, religious, political or gender-related slurs or jokes,
+or use obscene, threatening, foul, harassing, vulgar or defamatory
+language and gestures against another.</string>
+
+    <string name="business_3">During office hours, an employee shall avoid distracting behavior,
+including horseplay, shouting, playing loud music or making any
+other disturbances.</string>
+
+    <string name="business_4">An employee shall observe good grooming and wear the prescribed
+attire in the workplace, together with the Company ID.</string>
+
+
+    <string name="business_5">An employee shall not engage in activities that may reasonably
+affect his / her professional image or the image of the company.</string>
+
+    <string name="business_6">An employee shall attend to customers, visitors and business
+partners promptly and courteously, or refer them to employees who
+can best attend to them.</string>
+
+    <string name="business_7">An employee shall avoid the use of disrespectful language in
+communicating with others. he / she shall not fight with, or threaten,
+coerce or intimidate fellow employees, or deliberately injure or
+attempt to injure any person within the Company premises.</string>
+
+    <string name="business_8">An employee shall always respect the property of others. Stealing
+or causing damage to the property of others is prohibited. An
+employee who finds lost property in the Company premises shall
+promptly deliver the same to its owner or to the Security and Safety
+Department.</string>
+
+    <string name="business_9">An employee shall not make any sexual advances against another
+employee or against any person in the Company premises for any
+reason whatsoever (Please refer to Anti-Sexual Harassment Policy).</string>
+    <string name="business_10">An employee shall not demand, request or otherwise require any
+sexual favor from another, as a condition for hiring, employment,
+re-employment or continued employment of said individual, or in
+granting said individual favorable compensation, terms, conditions,
+promotions, or privileges (Please refer to Anti-Sexual Harassment
+Policy).</string>
+    <string name="business_11">A superior shall not limit, segregate or classify a subordinate in
+any way that would discriminate the latter or that would deprive
+the latter of his or her employment opportunities or diminish the
+same by reason of the subordinate\'s refusal to submit to the sexual
+advances, favor, request or demand of the superior (Please refer to
+Anti-Sexual Harassment Policy).</string>
+    <string name="business_12">An employee shall not report for work intoxicated or under the
+influence of prohibited drugs or alcohol.</string>
+    <string name="business_13">An employee shall not take unauthorized photographs of company premises or co–employees. Use of cellular phone cameras and
+other similar devices within Company premises may be regulated
+by Management.</string>
+
+    <string name="business_14">During meetings, cellular phones shall be placed in silent mode
+and used only in a manner that does not distract others.</string>
+    <string name="business_15">An employee shall obey all legitimate work–related orders.</string>
+
+
+    //productivity
+
+
+    <string name="productivity_policy">It is the policy of the Company to ensure a high level of productivity in
+order to deliver the best products and sustain outstanding performance
+and services that will contribute to the improvement of quality life.
+The Company requires, and will enforce, compliance with prescribed
+work procedures and processes for sustained productivity but without
+compromising opportunities for innovation and experimentation.</string>
+    <string name="productivity_rationale">Better productivity translates to better products and services.
+Productivity also ensures consistent supply of products to customers. It
+maximizes the proper utilization of resources as it avoids waste of time
+and materials, work interruption and work backlog.\n\n
+With respect to the individual, ensuring productivity allows him / her to
+realize his / her potential and avoids impeding the work of those who
+must depend on his output.</string>
+
+        <string name="productivity_rationale_2">Better productivity translates to better products and services.
+Productivity also ensures consistent supply of products to customers. It maximizes the proper utilization of resources as it avoids waste of time
+and materials, work interruption and work backlog.\n\nWith respect to the individual, ensuring productivity allows him / her to
+realize his / her potential and avoids impeding the work of those who must depend on his output.\n</string>
+
+
+    <string name="productivity_scope">These Rules apply to all employees regardless of rank and status of
+employment.</string>
+    <string name="rules_1">An employee shall work with a sense of urgency and avoid delays or
+procrastination.</string>
+    <string name="rules_2">An employee shall submit all required reports and data on time. he / she shall ensure that such reports and data are complete, accurate
+and do not contain any misleading or false information.</string>
+    <string name="rules_3">An employee shall observe the Company\'s work schedule. he / she
+shall not be late when reporting for work.</string>
+    <string name="rules_4">An employee shall not absent himself/herself from work without
+the required prior written authorization from his / her immediate
+superior. In case of an emergency leave, the employee shall exert
+all efforts to communicate with his / her immediate superior within a
+reasonable time in order to secure permission for his / her absence.
+In case he / she is on sick leave, the employee shall ensure that his / her immediate superior is notified within the first day that he / she is
+absent.</string>
+    <string name="rules_5">An employee who is on leave shall, when necessary, turn over to
+ his / her immediate superior any documents, equipment, keys and
+locks that may be needed by his / her co– employees during his / her absence. He / She shall also advise his / her immediate superior
+of any pending matter that may require attention during his / her
+absence.</string>
+    <string name="rules_6">An employee who desires to travel abroad on his / her personal
+account during workdays shall obtain written authorization for the
+purpose from his / her immediate superior prior to his / her trip.</string>
+    <string name="rules_7">An employee shall not engage in activities not related to his / her
+work during Company work hours or using Company resources.</string>
+    <string name="rules_8">An employee shall not feign sickness or malinger to avoid doing
+assigned work, or loiter or leave his / her assigned post during work
+hours without sufficient reason, or engage in gossiping and lengthy
+personal telephone conversation during work hours.</string>
+    <string name="rules_9">Undertime / overtime by an employee shall always require the prior
+written authorization of his / her immediate superior.</string>
+    <string name="rules_10">An employee shall exercise due diligence in the performance of his / her work to prevent the occurrence of errors, losses or damage to
+the company.</string>
+    <string name="rules_11">An employee shall consistently observe the performance standards
+of the company.</string>
+    <string name="rules_12">An employee shall observe all the processes and procedures required
+by law, government regulation or Company policy pertaining to his / her work.</string>
+    <string name="productive_penalty_3">* Consecutive working days shall mean any number of successive working days;
+provided that, for purposes of this Section, working days shall be considered
+\"consecutive\" despite any intervening non-working day if an employee is absent
+on the day immediately proceeding, and on the day immediately following, such
+intervening non-working day.</string>
+
+
+    //Handling Information
+    <string name="handling_policy">It is the policy of the Company to ensure the proper and prudent use
+of, and to safeguard, all information (\"Company Information\") acquired
+or generated by the Company, or developed or created by employees in the performance of their duties or incident to their work or through the use of Company tools, equipment and facilities.\n\n
+The Company believes that confidentiality and integrity of critical information should be preserved at all times.\n</string>
+    <string name="handling_rationale">Company Information is a valuable management resource. Negligence
+and bad faith in the creation, submission, use and handling of Company Information adversely affect its integrity and security and may result lost productivity, wasted computer resources, electronic risks such as
+electronic viral infections and hacker attacks, and business interruption.</string>
+    <string name="handling_scope">These Rules shall apply to all employees regardless of rank and status of employment.\n\nThese Rules shall apply to all Company Information in whatever form
+or medium, generated, derived, acquired or developed by the Company, or created, obtained or received by any of its employees in connection with the performance of his work and through the use of the Company
+tools, facilities and equipment, including but not limited to:</string>
+
+    <string name="handling_scope_a">Market and sales data, market research data, business plans and presentations.\n</string>
+    <string name="handling_scope_b">Books of account, ledger, journals, passbooks, bank statements.\n</string>
+    <string name="handling_scope_c">Scientific works, clinical studies, scientific research data and compilations.\n</string>
+    <string name="handling_scope_d">Product information, product formulations, trade secrets.\n</string>
+    <string name="handling_scope_e">Manufacturing instructions, flow sheets, work forms.\n</string>
+    <string name="handling_scope_f">Work processes, procedures.\n</string>
+    <string name="handling_scope_g">Patient records, prescription data.\n</string>
+    <string name="handling_scope_h">Supplier and customer lists.\n</string>
+    <string name="handling_scope_i">Raw materials and packaging specifications.\n</string>
+    <string name="handling_scope_j">Corporate manuals, accountable forms.\n</string>
+    <string name="handling_scope_k">Advertising and promotional materials (prior to publication).\n</string>
+    <string name="handling_scope_l">Systems, software, digital files, user\'s manuals, program, devices, databases.\n</string>
+    <string name="handling_scope_m">Employee / user system passwords and codes.\n</string>
+    <string name="handling_scope_n">Company account numbers, financial records and fiscal information.\n</string>
+    <string name="handling_scope_o">Negotiated terms of agreements, internal and external correspondence.\n</string>
+    <string name="handling_scope_p">Opinions and advice of Company counsel/consultants.\n</string>
+    <string name="handling_scope_q">Owner/stockholder/management information.\n</string>
+    <string name="handling_scope_r">Compensation and benefit packages.\n</string>
+    <string name="handling_scope_s">201 files.\n</string>
+    <string name="handling_scope_t">Business electronic mail.\n</string>
+    <string name="handling_scope_u">Product complaints, consumer inquiries.\n</string>
+    <string name="handling_scope_v">Government assessments.\n</string>
+    <string name="handling_scope_w">Tax returns.\n</string>
+    <string name="handling_scope_x">Call Cards and Territorial Coverage Plans.\n</string>
+    <string name="handling_scope_y">Database generated by devices used for coverage.\n</string>
+
+<string name="handling_scope_1">Company Information may or may not be confidential, but it is always proprietary to the Company (i.e. owned and controlled by the Company).\n\nConfidential information does not include information which is or
+subsequently becomes publicly available other than by an employee\'s breach of his / her obligation of confidentiality.\n\nAn employee is bound by obligations of confidentiality under this
+Section for a period of five (5) years from the date of his / her separation
+from the Company for any reason. An employee who violates this
+obligation of confidentiality shall be liable to the Company to the full
+extent under the law.</string>
+
+
+    <string name="handling_rules_1">All Company information is proprietary to the Company. In case
+of any doubt as to the confidentiality of particular information,
+the presumption shall be resolved in favor of confidentiality until
+otherwise de-classified in writing by proper company authority.</string>
+    <string name="handling_rules_2">An employee shall use Company Information only for authorized
+purposes. he / she shall not divulge proprietary or confidential
+Company Information to third parties without prior written authorization.</string>
+    <string name="handling_rules_3">An employee shall not access, download, use, transmit, or
+seek confidential Company Information without prior written
+authorization.</string>
+    <string name="handling_rules_4">An employee shall not download or reproduce any copyrighted
+material without prior written authorization. All copyrighted
+Company Information is protected by the Intellectual Property
+Code.</string>
+    <string name="handling_rules_5">An employee shall not intrude, or try to intrude, into the folders,
+files, works, or networks, or computers of others, or intercept communication intended for others, except with written authority
+of management when compelled by emergency situations or
+necessitated by operational exigencies or the information and / or
+person involved is subject of a pending administrative action or
+proceeding.</string>
+    <string name="handling_rules_6">An employee shall not sell or otherwise dispose of any Company
+Information without prior authorization.</string>
+    <string name="handling_rules_7">An employee shall not share his / her username password to other
+employees or unauthorized persons. he / she shall safekeep these
+information and ensure that it will not be used without his / her
+authority.</string>
+    <string name="handling_rules_8">An employee who, due to work – related matters, has been summoned
+by a court or other government authority, or who has received a
+subpoena, to appear before any officer or any government body on
+behalf of the Company and / or to produce Company Information
+shall, within 24 hours from receipt of said subpoena, notify the
+Company of the same in order to allow the Company sufficient time
+to obtain the proper relief.</string>
+    <string name="handling_rules_9">An employee shall not divulge or publicize, or threaten to divulge or
+publicize, or unduly withhold or conceal, Company Information for
+personal or financial gain or profit.</string>
+    <string name="handling_rules_10">An employee shall immediately notify his / her superior upon his / her
+discovery of any unauthorized use or disclosure of proprietary or
+confidential Company Information.</string>
+    <string name="handling_rules_11">An employee shall not alter, modify, delete, destroy corrupt, and
+reverse engineer, disassemble or de-compile (in case of systems
+and software) any Company Information without authorization. he / she shall be responsible for backing – up files in his / her computer
+equipment to avoid loss of data.</string>
+    <string name="handling_rules_12">An employee shall not knowingly furnish false, inaccurate or
+misleading data to any party with legitimate purpose and authority
+to obtain said data.</string>
+    <string name="handling_rules_13">An employee shall promptly disclose to the Company any change in
+his / her personal circumstances that may affect his / her employee
+rights, benefits and obligations, i.e., marriage, annulment of
+marriage, death of spouse or dependent, change of name, etc.</string>
+
+
+    //Business and Transactional Integity
+
+    <string name="business2_policy">It is the policy of the Company to do business legitimately and to preserve
+corporate integrity. It shall adopt only legitimate business practices
+that help promote the economy, preserve life, maintain harmonious
+employer – employee relations, and provide affordable healthcare and
+medicines. All employees should observe ethical business conduct and
+ensure the protection of the image and reputation of the company.</string>
+
+
+    <string name="business2_rationale">As a pharmaceutical company delivering the best value in healthcare,
+the Company and its employees have the responsibility of maintaining
+credibility as an organization that supports life, well – being, and
+wholeness.\n\nThe Company and its employees are bound to suffer the consequence
+of loss of credibility. This loss extends to the organization\'s products
+and services, ultimately putting the Company\'s best interests at risk. In
+most cases, loss of credibility arises when honesty, a universal ethic, is
+compromised. Internally, dishonesty always creates distrust, which is a
+great impediment to efficiency and progress.\n\n\n\n</string>
+    <string name="business2_scope">These Rules shall apply to all employees, regardless of rank and status
+of employment.\n\nAll employees shall be bound by these Rules, regardless of:</string>
+
+    <string name="business2_scope_1">The terms \"funds\", \"money\" and \"assets\" shall be deemed to include
+the corresponding evidence of their ownership, i.e., passbooks, credit
+cards, bank statements, ATM cards, and certificates of title as well as
+banking privileges and credit/loan facilities granted to the Company.</string>
+
+    <string name="business2_rules_1">Every employee must, in the exercise of his / her rights and in the
+performance of his / her duties, act with justice, give everyone his / her due, and observe honesty and good faith.</string>
+    <string name="business2_rules_2">An employee shall not solicit, request or require any gift, reward,
+bribe, privilege, benefit or other consideration of any kind from a coemployee
+or any third party. Neither may an employee accept any
+such gift, reward, bribe, privilege, benefit or other consideration.
+However, tokens of small value, (i.e., not exceeding P1,000.00) given
+to the employee by a co-employee or a third party in appreciation
+of the employee\'s assistance or other service, or to mark special
+occasions, are not covered by this Section.\n\nAn employee shall not give money to customers, suppliers or
+any third party, as a form of gift, reward, bribe, privilege or other
+considerations in exchange of a favor, or the performance of his / her
+duties.\n\n\n</string>
+    <string name="business2_rules_3">An employee shall not place himself/herself in a conflict-of-interest
+situation, i.e., a situation where an employee\'s interest conflicts
+with the interest of the Company\'s by reason of his / her relationship
+with certain parties, or his / her direct or indirect financial or other personal interest in the subject transaction, or his / her knowledge
+of valuable information obtained through his / her employment in
+the Company, or for any other reason.\n\nA full-time employee of the Company shall not maintain, in any
+manner or nature whatsoever, any form of employment that may
+affect the performance of his / her assignments, or affect the image
+of the company. he / she shall not allow use of his / her license by
+another company.</string>
+    <string name="business2_rules_4">An employee shall not misuse or misappropriate funds, money, and
+other assets of the Company or convert them to his / her own use.
+Neither shall he / she mingle any part of such funds, money and
+assets with those of his / her own.</string>
+    <string name="business2_rules_5">An employee who is constrained to keep funds, money or other
+assets of the Company in his / her personal possession or personal
+account due to an emergency situation other than his / her personal
+need, or due to an urgent need to safekeep the same temporarily
+or to some other special reason, shall immediately turn over such
+funds, money and assets to the proper Company officer when the
+emergency or urgency ceases or when the special reason no longer
+exists.</string>
+    <string name="business2_rules_6">An employee shall not steal or aid in stealing from the Company.
+Neither shall he / she steal or aid in stealing from others for the
+benefit of the Company.</string>
+    <string name="business2_rules_7">An employee shall not plagiarize the works of others in whole or in
+part, or copy the same without the owner\'s consent.</string>
+    <string name="business2_rules_8">An employee handling funds, money and assets of the Company
+shall exercise the degree of care, caution and foresight required by the circumstances, with due regard to the amount involved and the
+risks of their loss or diminution.</string>
+    <string name="business2_rules_9">An employee shall properly and promptly account for the funds,
+money and assets of the Company in his / her possession or under
+his / her responsibility.</string>
+    <string name="business2_rules_10">An employee shall not use his / her position or the functions of his / her office for personal gain or advancement of non-work related
+interests, or influence or attempt to influence the decision or action
+of another to unduly favor any particular person or entity.</string>
+    <string name="business2_rules_11">An employee shall fully cooperate with any audit or investigation on
+matters within his / her knowledge, responsibilities or expertise.</string>
+    <string name="business2_rules_12">An employee shall not simulate the birth or adoption of any person,
+or allow the illegitimate use by any person of the employee\'s
+surname, to make it appear that such person is his or her dependent
+or beneficiary.</string>
+    <string name="business2_rules_13">An employee shall not forge, duplicate, tamper or otherwise
+reproduce without authority any signature on any document or
+falsify any document.</string>
+    <string name="business2_rules_14">An employee shall not misrepresent to anyone the Company\'s
+products and services.</string>
+    <string name="business2_rules_15">Only properly authorized employees may give any statement before
+the media or the public about the Company, its products and
+services.</string>
+    <string name="business2_rules_16">An employee shall not create any intrigue to the prejudice of any
+person, or spread false rumors, or falsely accuse, falsely testify or
+fabricate evidence against another.</string>
+    <string name="business2_rules_17">An employee shall not file any nuisance complaint or initiate clearly
+unfounded and baseless court action against the Company or any
+of its officers, stockholders and employees, with or without intent
+to gain.</string>
+    <string name="business2_rules_18">An employee shall not renege on any commitment, undertaking or
+obligation to the Company such as, but not limited to, an obligation
+to return from abroad, or to return Company Property unlawfully
+possessed.</string>
+
+
+    //unathorized activities
+    <string name="unauthorized_policy">It is the policy of the Company to prohibit certain activities because they
+are contrary to law, morals, good customs, or corporate philosophy,
+or because they are in one way or another detrimental to individual
+progress and corporate growth.</string>
+
+    <string name="unauthorized_rationale">Unauthorized activities defeat productivity, divert employee benefits and
+corporate resources, and are a potential source of misunderstanding,
+intrigue, conflict of interest, fraud and deception, and must therefore
+be prevented.\n\nActivities that cause diversion of employee benefits to third parties are
+unauthorized and prohibited. While employee benefits pertain to the
+employee who is entitled to them, these benefits are not commercial
+goods or alienable rights that may be sold, assigned or otherwise
+transferred to other people at will. Employee benefits are personal to the
+employee and are generally non-transferable and non-transmissible.</string>
+
+    <string name="anauthorized_scope">These Rules shall apply to all employees, regardless of rank and status
+of employment.</string>
+
+
+    <string name="eight_rules_a">Sale and distribution of Company products without the required license, authority or appointment from the
+Company.</string>
+    <string name="eight_rules_b">Transfer, sale, assignment or encumbrance of an employee\'s
+medicine vale benefit or any other employee benefit.</string>
+    <string name="eight_rules_c">Subversive activities and other acts against the duly
+constituted government of the country.</string>
+    <string name="eight_rules_d">Collection or solicitation of contributions for investment
+purposes, except in cases authorized by Management (i.e.,
+Bayanihan Savings Plan).</string>
+    <string name="eight_rules_e">Engaging in unauthorized money-lending within Company premises for profit.</string>
+    <string name="eight_rules_f">Soliciting or aiding in soliciting investments or recruiting
+persons for, or engaging in, pyramiding and other illegitimate
+schemes for profit, whether alone or in conjunction with
+others.</string>
+    <string name="eight_rules_g">Peddling any type of goods or services to employees during
+work hours or within the Company premises.</string>
+    <string name="eight_rules_h">Sale or giving away of any dangerous drugs and other
+regulated or prohibited substances, articles, and effects
+contrary to law.</string>
+    <string name="eight_rules_i">Drinking liquor or alcoholic beverages in Company premises,
+except when allowed for reasons such as corporate
+celebrations or company-sanctioned social events.</string>
+    <string name="eight_rules_j">Collection or solicitation of contributions for charitable
+purposes without prior written authorization from
+Management.</string>
+    <string name="eight_rules_k">Channeling, i.e., diversion of Company products intended
+for sale and delivered to a particular account in one
+territory, usually by withdrawing the products from such
+account and consummating their sale to another account
+in another territory or any similar arrangement.</string>
+    <string name="eight_rules_l">Taking part in any gambling, lottery or any game of chance
+during working hours or within Company premises.</string>
+    <string name="eight_rules_m">Creation, production, distribution or dissemination by
+any means of any unauthorized, written or printed matter
+within Company premises.</string>
+    <string name="eight_rules_n">Publication in a paper or any device, or posting in social
+media, any defamatory statement against the Company, as
+well as its officers.</string>
+    <string name="eight_rules_o">Engaging in business in competition with the Company\'s
+business, directly or indirectly, whether alone or in
+conjunction with others.</string>
+    <string name="eight_rules_p">Running for public office, regardless of results or
+appointment to a government position.</string>
+    <string name="eight_rules_q">Any act(s) of Immorality and / or Dishonesty.</string>
+
+    //other policies
+
+    <string name="others_penalties">Offenses are penalized depending on the gravity of the offense as
+it affects the Company and its corporate goals / objectives, and as
+determined by due process meetings conducted for the purpose of
+determining liability / culpability for offenses.\n\nWhen a single act constitutes two or more offenses, or when the offense
+is committed as a necessary means of committing the other, the penalty
+for the more serious offense shall be imposed.\n\nWhen a violation of the same rule or provision is committed within
+the last 12-month period, the penalty next higher in degree than the
+penalty prescribed for the repeating offense shall be imposed.\n\nThe penalty imposed under the Code shall be without prejudice to
+any other available legal remedy of the Company against the erring
+employee.\n\nPenalties imposed upon erring employees shall have corresponding
+implications. All disciplinary records will be part of the employee\'s 201
+file. Employees who have been penalized by suspension will not be
+entitled for promotion for a period of two (2) years. This is to remind employees about the importance of character in relation to professional
+development.\n\nManagement shall impose penalties depending on the facts of each case
+and taking into consideration the seriousness of the consequences, the
+risks of injury, loss or damage, the value of the property subject of the
+offense and the extent of the loss or damage suffered by the Company.\n\nWhen an employee\'s monetary liability to the Company has been duly
+established, the Company reserves the right to make the necessary
+deductions from the employee\'s salary or receivables from the Company
+for restitution in accordance with law.\n\n\n\n\n\n\n\n\n
+    </string>
+    //table in penalties
+    <string name="code_of_conduct_penalties_verbal_reprimand">Verbal Reprimand</string>
+    <string name="code_of_conduct_penalties_written_reprimand">Written Reprimand</string>
+    <string name="code_of_conduct_penalties_suspension">Suspension</string>
+    <string name="code_of_conduct_penalties_dismissal">Dismissal</string>
+
+    <string name="code_of_conduct_penalties_verbal_or_written">Verbal or Written Reprimand</string>
+
+    <string name="code_of_conduct_penalties_7days_dismissal">7 days suspension up to dismissal</string>
+
+    <string name="code_of_conduct_penalties_30days_dismissal">30 days suspension up to dismissal</string>
+    <string name="code_of_conduct_penalties_31days_dismissal">31 days suspension up to dismissal</string>
+
+    <string name="code_of_conduct_penalties_7days_suspension">7 days suspension</string>
+    <string name="code_of_conduct_penalties_15days_suspension">15 days suspension</string>
+    <string name="code_of_conduct_penalties_5days_suspension">5 days suspension</string>
+    <string name="code_of_conduct_penalties_3days_suspension">3 days suspension</string>
+    <string name="code_of_conduct_penalties_1_3days_suspension">1-3 days suspension</string>
+    <string name="code_of_conduct_penalties_4_5days_suspension">4-5 days suspension</string>
+    <string name="code_of_conduct_penalties_5_7days_suspension">5-7 days suspension</string>
+    <string name="code_of_conduct_penalties_8_15days_suspension">8-15 days suspension</string>
+    <string name="code_of_conduct_penalties_16_30days_suspension">16-30 days suspension</string>
+
+    /drug
+
+    
+<string name="other_policies_title">This policy and guidelines shall be known as the "UNILAB INC. Dangerous Drug-Free Workplace Policy".</string>
+    
+
+
+ <string name="other_policies_text">A violation of any of the Rules stated in the Code constitutes a punishable
+offense. The penalties, are, in the order of gravity, as follows:</string>
+
+
+
+
+   <string name="other_policies_purpose">UNILAB INC. (hereinafter referred to as \"Unilab\") is
+committed to maintaining a work environment that is conducive to
+upholding its core values and strives to protect its employees\' health
+and safety by strictly prohibiting the use of illegal drugs and the
+engagement of illegal drug activities within the premises of Unilab, and
+offering solutions and reactive treatment to drug users. This policy is
+designed to eliminate drug abuse and their effects in the workplace as
+drug abuse and dependence pose a serious thangerousreat to the user, his / her
+co-employees, the workplace and the clients of the company.\n\nThis policy is in consonance with the provisions of Republic Act No.9165,
+otherwise known as the \"Comprehensive Dangerous Drugs Act of 2002\",
+its Implementing Rules and Regulations, Department Order No. 53-03
+of the Department of Labor and Employment and the Labor Code of the
+Philippines.\n</string>
+
+
+    <string name="other_policies_definitions">For purpose of this policy, the following definitions shall apply:</string>
+    <string name="other_policies_definitions_1">Assessment Team – shall be composed of the Division Head –
+Human Resources and Organization Development Division, Group
+Head – Employee Relations Group, Medical Director – Unilab, and
+the Chairman of the Employees\' Council. The jurisdiction of the
+Assessment Team shall be strictly limited to cases falling under
+item IV, paragraph 8, 10, 11 and 13 of this policy.</string>
+   <string name="other_policies_definitions_2">Unilab\'s premises - consist of all areas of the property of Unilab
+and / or areas where Unilab conducts its operations and work related
+activities.</string>
+
+ <string name="other_policies_definitions_3">Random Drug Test - refers to unannounced schedule of Screening
+Test with each employee having an equal likelihood and prospect of
+being selected as a participant.</string>
+
+
+    <string name="other_policies_definitions_4">Screening Test - refers to the initial test performed to establish/
+identify users of prohibited drugs and / or substances.</string>
+
+    <string name="other_policies_definitions_5">Confirmatory Test - an analytical test using a device, tool or
+equipment with a different chemical or physical principle that
+is more specific that will validate and confirm the result of the
+Screening Test. It refers to the second or further analytical
+procedure to determine more accurately the presence of illegal
+drugs in a specimen.</string>
+
+
+    <string name="other_policies_definitions_6">Drug dependence – a cluster of physiological, behavioral, and
+cognitive phenomena of variable intensity, in which the use of
+psychoactive drug takes on a high priority thereby involving,
+among the others, a strong desire or sense of compulsion to take
+the substance and the difficulties in controlling substance-taking
+behavior in terms of its onset, termination or levels of use. It shall
+include dependence on any illegal drugs as well as the misuse of
+legally obtained drugs as defined under this policy.</string>
+
+
+    <string name="other_policies_definitions_7">Drug paraphernalia - are material(s) that may be used for
+administering, transferring or storing drugs or any material
+designed for these purposes.</string>
+
+    <string name="other_policies_definitions_8">Dangerous or Illegal drugs - shall include all dangerous drugs
+and essential chemicals listed and enumerated in the tables and
+schedules annexed to Republic Act No. 9165, and all those that the
+appropriate government agencies may declare to be so from time to
+time.</string>
+
+ <string name="other_policies_definitions_9">Reasonable suspicion of drug use - may exist in, but is not limited to
+the following situations:</string>
+    <string name="other_policies_definitions_9_a">Employee is mentally or physically impaired and illegal
+drugs and / or misuse or abuse of legally obtained drugs may
+have been a factor contributing to the impairment.\n</string>
+    <string name="other_policies_definitions_9_b">Employee is involved in any incident affecting a person
+or property where illegal drugs and / or misuse or abuse of
+legally obtained drugs may have been a factor contributing
+to the incident.\n</string>
+    <string name="other_policies_definitions_9_c">When an objective basis exists for believing that illegal
+drugs and / or misuse or abuse of legally obtained drugs may
+be responsible for poor or deteriorating job performance.\n</string>
+    <string name="other_policies_definitions_9_d">When an employee is found in possession of any illegal
+drug.\n</string>
+    <string name="other_policies_definitions_9_e">When an employee is found in possession of any drug
+paraphernalia.\n</string>
+   <string name="other_policies_definitions_10">Sell/Sale - refers to any act of giving away any illegal drug and / or
+drug paraphernalia whether for money or any other consideration.</string>
+
+    <string name="other_policies_definitions_11">Use - refers to the act of injecting, intravenously or intramuscularly, of consuming, either by chewing, smoking, sniffing, eating,
+swallowing, drinking or otherwise introducing into the physiological
+system of the body, any of the illegal drugs.</string>
+   <string name="other_policies_guidlines_1">The use, possession, transportation, sale, storage , distribution,
+dispensation or manufacture of illegal drugs regardless of the
+quantity, or being under the influence of dangerous drugs regardless
+of the quantity, or being under the influence of dangerous drugs,
+while within the premises of Unilab or while conducting / performing
+any work/activity for and on behalf of Unilab is strictly prohibited
+and is a ground for termination of employment.</string>
+   <string name="other_policies_guidelines_2">Unilab reserves the right to make general or random searches of
+its premises for dangerous drugs and / or drug paraphernalia. Any
+dangerous drug or drug paraphernalia found will be confiscated
+and endorsed to the appropriate law enforcement agency for
+investigation and handling.</string>
+
+
+    <string name="other_policies_guidelines_3">Pursuant to DOLE Department Order No. 53-03, Unilab shall
+conduct yearly, mandatory and random drug test on 20% of the
+total population of its employees. Refusal to participate in the
+random drug test is a ground for termination of employment.</string>
+
+
+    <string name="other_policies_guidelines_4">Drug testing shall consist of both the Screening and Confirmatory
+tests. A confirmatory test will be taken only if the screening result
+is positive. Unilab shall choose which drug-testing center duly
+accredited by the Department of Health shall be utilized. Cheating
+in drug tests and / or tampering with the results of the drug test,
+either on his / her own or in connivance with another party, is a
+ground for termination of employment.</string>
+
+
+    <string name="other_policies_guidelines_5">The employees will be informed by the Medical Director of the test results, whether positive or negative. The result of the drug test
+shall be kept strictly confidential except as may be required by law,
+overriding public health and safety concerns, administrative due
+process or where the employee concerned has made a waiver in
+writing. The result of the drug test will be included in the employee\'s
+201 File.</string>
+
+ <string name="other_policies_guidelines_6">Should the Confirmatory Test yield positive results, the Medical
+Director shall inform the concerned employee within seven (7) days
+from notice thereof. The employee shall have the right to request
+in writing for a re-test within three (3) days from notification. The
+employee\'s failure to request for a re-test within three (3) days from
+notification shall be deemed an admission of the results.</string>
+
+
+    <string name="other_policies_guidelines_7">The re-test shall be performed by another drug center likewise
+accredited by the Department of Health. The new drug center to
+be used for the re-test will be randomly chosen by the Medical
+Director. The re-test will be limited to testing the same specimen of
+the employee used in the first test. The results of the re-test shall
+be considered final. The cost of the re-test shall be borne solely by
+the employee and shall be deducted from his / her salary.</string>
+
+
+    <string name="other_policies_guidelines_8">If the Confirmatory Test and / or re-test result is positive, the
+Assessment Team shall evaluate the same and determine whether
+or not the employee concerned is a candidate for treatment and /
+or rehabilitation due to drug dependence, provided that: (i) the
+employee concerned is a diagnosed with drug dependence for the
+first time; (ii) the employee voluntarily turns to the Assessment
+Team for assistance; or (iii) the employee will benefit from the
+treatment or rehabilitation. Otherwise, the employee concerned
+shall be terminated.</string>
+
+
+    <string name="other_policies_guidelines_9">The employee concerned shall not receive any salary or benefit during the entire period of his / her rehabilitation and before his / her
+actual reinstatement. The cost of the treatment and rehabilitation,
+including board and lodging if need be, shall be shared equally
+by Unilab and the employee, provided that Unilab\'s share therein
+shall not exceed P3,000.00 per month, for a maximum of three
+(3) consecutive months. The choice of which drug treatment/
+rehabilitation center to enroll in shall be the prerogative of Unilab.
+Should the employee choose to be enrolled in a center charging
+more than P3,000 per month and / or need treatment in excess of
+three (3) consecutive months, he / she shall shoulder all costs over
+and above the aforementioned maximum share of Unilab.</string>
+
+
+    <string name="other_policies_guidelines_10">Refusal of the employee to seek treatment and / or undergo
+rehabilitation and / or fully comply with his / her in-patient or
+aftercare treatment as recommended by the Assessment Team and /
+or the treatment / rehabilitation center shall be a ground for his / her
+termination.</string>
+
+
+<string name="other_policies_guidelines_11">After rehabilitation, the Assessment Team, in consultation with the
+rehabilitation center, shall evaluate the status of the employee and
+make a recommendation to the concerned employee\'s unit head
+whether or not the employee is fit to resume his / her job. The final
+decision on whether or not to allow the employees\' resumption of
+work shall be with the Unilab Employee Discipline Board.</string>
+
+
+    <string name="other_policies_guidelines_12">Repeated drug use while undergoing or even after the employee has
+had ample opportunity for treatment or rehabilitation is a ground
+for dismissal.</string>
+
+
+    <string name="other_policies_guidelines_13">The results of drug tests shall be valid for 1 year. However, additional
+drug testing may be required in any of the following cases;</string>
+    <string name="other_policies_guidelines_a">After a workplace-related accident, which include a nearaccident;\n</string>
+    <string name="other_policies_guidelines_b">Following the treatment or rehabilitation of an employee to
+determine his / her fitness to return to work;\n</string>
+    <string name="other_policies_guidelines_c">In light of the clinical findings, border line findings, and / or
+upon recommendation of the Assessment Team;\n</string>
+    <string name="other_policies_guidelines_d">There is reasonable suspicion of drug use; and\n</string>
+    <string name="other_policies_guidelines_e">After being found in possession of drug paraphernalia.\n</string>
+    <string name="other_policies_guidelines_14">All supervisors shall be responsible for closely observing and
+monitoring those employees directly under them who are suspected to be drug dependents and / or engaged in illegal drug activities. The concerned unit shall submit a written report on
+the matter to Human Resources and Organization Development, which written report shall include, among others, the name of the employee involved, and a description of his / her behavior and other
+information pertaining to the suspicion of drug use and / or illegal drug activity.</string>
+
+
+    <string name="other_policies_guidelines_15">The immediate head must likewise be immediately informed of any
+reasonable suspicion that an employee is violating this policy.</string>
+
+
+    <string name="other_policies_guidelines_16">An employee found in possession of any drug paraphernalia
+anywhere within the premises of Unilab or while doing/performing
+work for Unilab shall be required to undergo a drug test and shall
+be terminated from employment.</string>
+
+
+    <string name="other_policies_guidelines_17">The planting of evidence against another employee is a ground for
+termination from employment.</string>
+
+
+
+
+   <string name="other_policies_drug_free_workplace_programs_1">Unilab shall ensure that the workplace policies and programs on
+prevention and control of illegal drugs, including drug testing
+shall be appropriately disseminated to all employees. Unilab shall
+conduct orientation-education programs to increase the employees awareness on the adverse effects of illegal drugs, which program
+shall be provided by the Health and Wellness Group in coordination/
+cooperation with the Employee Relations Group and the Employees\'
+Council. Topics in the orientation-education program shall include
+the following:</string>
+
+      <string name="other_policies_drug_free_workplace_program_1_a">Adverse effects of illegal drugs to the person, workplace,
+family and community;\n</string>
+    <string name="other_policies_drug_free_workplace_program_1_b">Salient features of Republic Act No. 9165 and its
+Implementing Rules and Regulations;\n</string>
+    <string name="other_policies_drug_free_workplace_program_1_c">Other policies and programs relating to a drug-free
+workplace;\n</string>
+    <string name="other_policies_drug_free_workplace_program_1_d">Preventive measures against drug abuse; and\n</string>
+
+    <string name="other_policies_drug_free_workplace_program_1_e">Treatment and rehabilitation.\n</string>
+     <string name="other_policies_drug_free_workplace_programs_2">Unilab shall continuously monitor and evaluate the implementation
+of the drug-free workplace policies and programs to ensure that the
+goals of said program are properly achieved.</string>
+
+    <string name="other_policies_drug_free_workplace_programs_3">Unilab shall display a billboard or streamer in conspicuous places
+in the workplace with the message \"This is a Drug-Free Workplace.
+Let\'s keep it this way!\"</string>
+
+
+    <string name="other_policies_drug_free_workplace_programs_4">Unilab shall ensure the dissemination of this policy to all of its
+employees.</string>
+
+
+    //anti -sexual harassment policy
+
+
+
+    <string name="other_policies_anti_sexual">Pursuant to the provisions of Section 4 of Republic Act 7877 otherwise
+known as \"An Act Declaring Sexual Harassment Unlawful in the
+Employment, Education or Training Environment, and for Other Purposes\",
+the following rules and regulations governing the prevention of
+sexual harassment, procedure for the resolution, settlement, and /
+or disposition of sexual harassment cases, as well as prescribing the
+proper decorum in the workplace for officers, staff, temporary staff, and
+service personnel of UNILAB INC. (hereinafter referred to as
+\"Unilab\" and / or \"the Company\") are hereby promulgated and approved.</string>
+
+
+    <string name="other_policies_anti_sexual_definition_of_terms">As used in this Policy, the following terms shall mean and be understood as:</string>
+
+
+
+
+        <string name="anti_sexual_title">Pursuant to the provisions of Section 4 of Republic Act 7877 otherwise
+known as \"An Act Declaring Sexual Harassment Unlawful in the
+Employment, Education or Training Environment, and for Other Purposes\",
+the following rules and regulations governing the prevention of
+sexual harassment, procedure for the resolution, settlement, and /
+or disposition of sexual harassment cases, as well as prescribing the
+proper decorum in the workplace for officers, staff, temporary staff, and
+service personnel of UNILAB INC. (hereinafter referred to as
+\"Unilab\" and / or \"the Company\") are hereby promulgated and approved.</string>
+    
+    
+    <string name="anti_sexual_rule_a">\"Committee\" refers to the Anti-Sexual Harassment
+Committee created by this Policy.\n</string>
+    <string name="anti_sexual_rule_b">\"Company\" refers to Unilab, its affiliates, and subsidiaries.\n</string>
+    <string name="anti_sexual_rule_c">\"Applicant / Client\" refers to a person seeking employment
+in the Company or any person who avails of the various
+services of the Company, and all individuals transacting
+official matters or business with the Company.\n\n</string>
+    <string name="anti_sexual_rule_d">\"Trainee\" refers to a person undergoing an organizational
+and instructional process undertaken by the Company
+through which an individual acquires knowledge and skill.\n\n</string>
+    <string name="anti_sexual_rule_e">\"Supervisory Employee\" refers to one who, in the interest
+of the employer, effectively recommends managerial
+actions such as hiring, transferring, suspending, laying-off, recalling, discharging, assigning or disciplining employees
+if the exercise of such authority is not merely routinary
+or clerical in nature but requires the use of independent
+judgment.\n\n</string>
+    <string name="anti_sexual_rule_f">\"Rank-and-File-Employee\" refers to one not falling within
+the definition of supervisory employee.\n</string>
+    <string name="anti_sexual_rule_g">\"Rules\" refers to the rules and regulations contained in this
+Policy.\n</string>
+    <string name="anti_sexual_rule_h">\"Secretary\" refers to the Secretary of the Department of
+Labor and Employment.\n</string>
+    <string name="anti_sexual_rule_i">\"Complainant\" refers to the party filing the complaint for
+sexual harassment.\n</string>
+    <string name="anti_sexual_rule_j">\"Respondent\" refers to the officer or employee charged or
+against whom the complaint is filed.\n\n</string>
+
+
+    //Rule II: Coverage
+
+    <string name="coverage">This Policy shall apply to all officers, staff, temporary staff, and service
+personnel of Unilab regardless of their position, classification, or
+gender. This Policy shall also cover applicants for employment with
+Unilab, as well as clients, trainees, and other persons transacting
+official matters or business with Unilab against whom acts of sexual
+harassment may be committed.</string>
+    
+    
+    <string name="anti_sexual_definition_of_sexual_harassment">Definition. - Sexual harassment is a form of misconduct
+involving an act, gesture, or other verbal or physical behavior of a sexual
+or sexually related nature, made directly, indirectly or impliedly, creating
+in the process an intimidating, embarrassing, hostile, or offensive work
+environment to the employee(s) affected. For the purposes of this
+Policy, sexual harassment is committed when:</string>
+
+
+    <string name="anti_sexual_definition_of_sexual_harassment_a">A sexual favor / accommodation is made as a condition
+in the hiring or in the employment, re-employment, or continued employment of an individual, or in granting
+said individual favorable compensation, terms, conditions, promotions, or privileges; or the refusal to grant a sexual
+favor / accommodation results in limiting, segregating, or classifying the individual and which directly or indirectly
+discriminates, deprives, or diminishes the career / employment opportunities or otherwise either physically,
+emotionally, psychologically affects an individual / employee in an adverse manner.\n\n\n\n</string>
+    <string name="anti_sexual_definition_of_sexual_harassment_b">The above mentioned acts directly or indirectly impairs an
+employee\'s rights or privileges under existing labor laws;\n</string>
+    <string name="anti_sexual_definition_of_sexual_harassment_c">The acts would result in an intimidating, hostile,
+embarrassing, stymieing, discriminating, or offensive work
+environment / atmosphere for the individual / employee.\n</string>
+
+   <string name="anti_sexual_definition_of_sexual_harassment_1">Any person who (i) directs or induces another to commit any act
+of sexual harassment as herein defined; or (ii) cooperates in the
+commission thereof by another without which the act would not have
+been committed, shall also be held liable under this Policy.</string>
+
+    <string name="anti_sexual_definition_of_sexual_harassment_2">When/Where Committed. – For this purpose, work or employment related sexual harassment may take place in any or all of
+the following:</string>
+    <string name="anti_sexual_definition_of_sexual_harassment_a_1">office premises;\n\n</string>
+    <string name="anti_sexual_definition_of_sexual_harassment_b_1">any other place / venue as a direct / indirect result of work
+responsibilities or employment relations;\n\n</string>
+    <string name="anti_sexual_definition_of_sexual_harassment_c_1">office/work related social functions;\n\n</string>
+    <string name="anti_sexual_definition_of_sexual_harassment_d_1">while on official business outside the office or during work related travel;\n\n</string>
+<string name="anti_sexual_definition_of_sexual_harassment_e_1">official conferences, fora, symposia, training / lecture sessions;\n\n</string>
+    
+    <string name="anti_sexual_definition_of_sexual_harassment_f_1">telephone, cellular phone, text messaging, facsimile communication, e-mail, letters, telegram, and other form of
+work / employment related media of communication.\n\n\n</string>
+
+
+    // Rule IV: Anti-Sexual Harassment Committee
+
+
+   <string name="anti_sexual_harrasment_1">Creation of Committee. - An Anti-Sexual Harassment Committee is hereby created and shall be composed of the following:</string>
+
+
+
+    <string name="anti_sexual_chairperson">Head, Human Resources and Organization Development Division.\n</string>
+    
+     <string name="anti_sexual_division">Division Head of the concerned employee(s) Group Head of the concerned employee(s) Head, Workplace Conduct Group
+Chairman, Employees Council.\n\n</string>
+    
+    <string name="anti_sexual_harrasment_2">Functions. – The Committee shall receive complaints,
+investigate, and hear sexual harassment cases, prepare and submit
+reports with corresponding recommendations to the appropriate parties
+for the proper disposition of the sexual harassment cases referred to
+the Committee.\n\nThe Committee shall also develop and recommend for implementation
+programs / measures to increase understanding and awareness about
+sexual harassment and proper ways / means to address work / office
+related sexual harassment.\n</string>
+
+    //Rule V: Procedure in Handling and Disposition of
+    Sexual Harassment Cases
+    
+    
+    
+   <string name="anti_sexual_harassment_3">Complaint. - A Complaint for sexual harassment may be filed
+by any employee by submitting a written report and / or memorandum
+to the Chairperson of the Committee on Anti-Sexual Harassment. The
+Complaint must clearly state the following:</string>
+
+
+
+    <string name="anti_sexual_harassment_3_a">Full name, Position, and Rank of both Complainant and
+Respondent;\n</string>
+    <string name="anti_sexual_harassment_3_b">Specific details, facts, and circumstances of the act(s)
+subject of the Complaint;\n</string>
+    <string name="anti_sexual_harassment_3_c">Other information and evidence relevant and / or material to
+the Complaint filed.\n</string>
+
+
+        <string name="anti_sexual_harassment_3_1">Section 1. Complaint. - A Complaint for sexual harassment may be filed
+by any employee by submitting a written report and / or memorandum
+to the Chairperson of the Committee on Anti-Sexual Harassment. The
+Complaint must clearly state the following:</string>
+
+            <string name="anti_sexual_harassment_3_1_a">No anonymous Complaint shall be accepted by the Committee nor
+shall any employee be required to answer, comment, or respond in any
+manner to an anonymous Complaint. A withdrawal of the Complaint
+made or filed at any stage of the proceedings / investigations shall
+not preclude the Committee from proceeding with the investigation
+of the case and making appropriate recommendations in connection
+therewith.</string>
+
+
+
+<string name="anti_sexual_harassment_3_2">Answer. - A complaint for sexual harassment under this
+Policy shall be answered within five(5) working days from receipt
+of the Complaint. The answer should be in writing, submitted to the
+Chairman of the Committee on Anti-Sexual Harassment, and should
+contain a specific admission or denial of the charge(s) and a statement
+of relevant facts constituting the respondent\'s defense. In support of
+the answer, the respondent may submit relevant evidence together
+with the answer. Failure to submit an answer within the period herein
+provided shall be construed as waiver on the part of the respondent to
+present his / her evidence. In case of failure to answer, the Committee
+shall proceed with its investigation and make recommendations on the
+basis of the complaint and supporting documents submitted.\n\n</string>
+
+
+
+    <string name="anti_sexual_harassment_3_3">Investigation/Hearing. - After the Complaint, the Answer,
+and all pertinent/relevant memorandum, reports, evidence have
+been submitted to the Committee, the Committee shall conduct its
+investigation/hearing. Investigation/hearing shall be concluded and
+recommendation/decision submitted to the appropriate parties no later
+than 30 days from date of filing of the Complaint.</string>
+
+
+
+    //Rule VI: Classification of Offenses and Penalties
+    
+   <string name="anti_sexual_rule_6">Classification of Offenses. - Any person who is found guilty
+of sexual harassment after due investigation/hearing shall be meted
+the penalty corresponding to the gravity and seriousness of the offense
+as follows:</string>
+
+
+    <string name="anti_sexual_rule_6_a">Grave offenses</string>
+    <string name="anti_sexual_rule_6_1">Rape / Sexual assault.</string>
+    <string name="anti_sexual_rule_6_2">Unwarranted touching or making physical contact of private parts of the body or any act of malicious touching.</string>
+    <string name="anti_sexual_rule_6_3">Any act that constitutes sexual harassment committed by a superior officer or any person having moral ascendancy
+over the victim.</string>
+    <string name="anti_sexual_rule_6_4">Voyeurism (sexual stimulation derived through visual means).</string>
+
+    // B. Less Grave Offenses
+
+     <string name="anti_sexual_rule_6_2_1">Requesting for dates, rendezvous, or sexual favors in
+exchange for employment, promotion, local or foreign
+travels, favorable working conditions, assignments, or
+grant of benefits.\n</string>
+    <string name="anti_sexual_rule_6_2_2">Derogatory or degrading remarks or innuendoes directed
+towards members of one sex or sexual orientation.\n</string>
+    <string name="anti_sexual_rule_6_2_3">Sexually oriented verbal abuse or threats.\n</string>
+
+
+    // C. Light Offenses
+    
+   <string name="anti_sexual_rule_6_3_1">Persistently telling / uttering sexually explicit and /
+or suggestive jokes and / or statements causing
+embarrassment or offense, told or carried out after the
+offender has been advised that he / she is doing is either
+offensive, embarrassing, and / or vulgar.\n\n</string>
+    <string name="anti_sexual_rule_6_3_2">Staring or ogling which is unwelcome and which is either
+suggestive and / or flirtatious.\n</string>
+    <string name="anti_sexual_rule_6_3_3">Display of sexually offensive pictures, materials, and / or
+graffiti.\n</string>
+
+
+   <string name="anti_sexual_rule_6_3_4">Unwelcome inquiries or comments about a person\'s sex
+life.\n</string>
+    <string name="anti_sexual_rule_6_3_5">Unwelcome sexual flirtation, advances, propositions.\n</string>
+    <string name="anti_sexual_rule_6_3_6">Making offensive hand or body gestures.\n</string>
+
+
+   <string name="anti_sexual_penalties">Penalties.- The penalties prescribed for the light, less grave
+and grave offenses are as follows:</string>
+    
+   <string name="anti_sexual_rule_6_a_1">For Light Offenses: Written Reprimand and / or Suspension not
+exceeding ten (10) working days at the discretion of the Committee.\n</string>
+    <string name="anti_sexual_rule_6_b_2">For Less Grave Offenses: Written Reprimand and Suspension
+not exceeding thirty (30) working days at the discretion of the
+Committee.\n</string>
+    <string name="anti_sexual_rule_6_c_3">For Grave Offenses: Dismissal / Termination.\n</string>
+
+
+   <string name="anti_sexual_penalties_1">The above–enumerated sanctions shall not be a bar to prosecution in
+the proper courts of law for unlawful acts of sexual harassment.</string>
+
+    //Rule VII: Prescriptive Period
+
+
+<string name="anti_sexual_rule_7">Any complaint or action arising from the violation of this Policy should
+be filed within one (1) year from the date of commission of such
+violations otherwise, the same shall be deemed to have prescribed.</string>
+
+
+    //Rule VIII: Effectivity Clause
+
+<string name="anti_sexual_rule_8">This Policy shall take effect immediately upon approval and posting in
+at least two (2) conspicuous places in the office premises.</string>
+
+    // Policy on Use of Digitized Signatures
+
+
+    //policy
+    //policy
+    <string name="digitized_policy">With the advent of technology, information can easily be transmitted
+and copied through various electronic devices and means accessible to
+the public. Significantly, the law considers an electronic document as
+a functional equivalent of a written document (Section 7, Republic <Act></Act>
+8792). Such ease of transfer of information and the legal recognition of
+electronic documents as to effect, validity and enforceability (Section 7,
+R.A. 8792) lead the Company to adopt certain policies that will protect
+the Company, its officers and employees from any unauthorized use of
+information using electronic data messages.</string>
+    //scope
+    <string name="digitized_scope">This Policy seeks to set the guidelines on the use of digitized signatures
+in order to, among others, safeguard the Company, its officers and
+employees from being misrepresented, suffering a loss of reputation,
+or being exposed to any liability or other adverse consequences as a
+result of the unauthorized use of digitized signatures.\n\nAll existing policies, including Corporate Information Technology
+(\"CIT\") polices and the Code of Conduct, shall remain in force and shall
+complement this Policy.</string>
+    //coverage
+    <string name="digitized_coverage">This policy applies to all employees of the Company and its affiliates.
+Agency employees assigned to Unilab shall be governed by the Service
+Agreement with the Contractor and other corporate policies that may be applicable to them, including CIT policies on security.</string>
+
+    //definitions
+    <string name="digitized_definitions">For purposes of this Policy, the following definitions apply:\n</string>
+
+ <string name="digitized_definitions_a">\"Digitized Signature\" – refers to any electronic signature as defined
+herein and any manual signature that has been electronically
+copied.\n</string>
+
+   <string name="digitized_definitions_b">\"Electronic signature\" – refers to any distinctive mark, characteristic
+and / or sound in electronic form, representing the identity of a
+person and attached to or logically associated with the electronic
+data message or electronic document or any methodology or
+procedures employed or adopted by a person and executed or
+adopted by such person with the intention of authenticating or
+approving an electronic data message or electronic document
+(Section 5 [e], RA 8792).\n\n– basically refers to the signature of a person in any electronic form.\n\n\n</string>
+
+
+    //V. Employee's Responsibilities
+
+    <string name="digitized_responsibilities">It shall be the responsibility of an employee to:</string>
+
+<string name="digitized_responsibilities_1">use his or her digitized signature only within the scope of his or
+her authority, especially considering that an electronic document
+by itself may produce a legal obligation on the part of the company;</string>
+
+
+    <string name="digitized_responsibilities_2">use his or her digitized signature on company properties only for
+official business;</string>
+
+    <string name="digitized_responsibilities_3">secure prior written consent from the appropriate authority before
+releasing any corporate message to external organizations bearing the signatures of company officials;</string>
+    <string name="digitized_responsibilities_4">seek CIT assistance for electronic documents requiring a high level of protection and confidentiality;and </string>
+<string name="digitized_responsibilities_5">take sufficient measures to prevent the unauthorized use of his or
+her digitized signature, including ensuring the confidentiality of his or her IT-related password;</string>
+
+
+    //VI. Prohibitied acts
+
+    <string name="digitized_prohibited_1">disclose any confidential company information;\n</string>
+    <string name="digitized_prohibited_2">make any public representation of any company information unless
+with the written authority from External Affairs;\n</string>
+    <string name="digitized_prohibited_3">use the digital signature of another:\n</string>
+
+ <string name="digitized_prohibited_3_a">to make it appear that the information or message comes
+from the individual who owns the digital signature; or\n</string>
+    <string name="digitized_prohibited_3_b">altering or modifying the information or message of another
+and making it appear that the altered or modified message
+comes from the individual who owns the digital signature.\n</string>
+
+
+   <string name="digitized_prohibited_4">use, copy, transmit or otherwise disclose, whether as an internal
+communication or for public posting including on social media or
+corporate sites, the digital signature of another or any document
+containing the digital image of another person\'s signature;\n</string>
+
+    <string name="digitized_prohibited_5">use, copy, transmit or otherwise disclose, whether as an internal
+communication or for public posting including on social media or
+corporate sites, the digital signature of another or any document
+containing the digital image of another person\'s signature;\n\n</string>
+
+     <string name="digitized_prohibited_5_a">use, copy, transmit or otherwise disclose, whether as an internal
+communication or for public posting including on social media
+or corporate sites, any message, letter and any document written
+by or under the signature of the Chairman of the Board, the Vice
+Chairman of the Board, members of the Board of Directors, the
+President and Chief Executive Officer, the Executive Vice President
+and COO, the Treasurer, the Chief Finance Officers and any other company official unless there is a prior written consent from the
+office concerned.\n\n</string>
+
+    <string name="digitized_prohibited_6_a">Further, unauthorized use or copying of the digitized signatures of
+another shall also constitute as a violation punishable under Rule 13,
+Section 7 of the Code of Conduct which states:</string>
+
+ <string name="digitized_prohibited_6">\"An employee shall not forge, duplicate, tamper or otherwise
+reproduce without authority any signature or any document or
+falsify any document\".</string>
+
+ <string name="digitized_prohibited_7">Finally, any act or omission not listed above but constitutes fraud,
+serious misconduct, or gross and habitual negligence shall be
+considered punishable under this Policy.</string>
+
+    //VII. Violations
+
+
+ <string name="digitized_prohibited_8">Compliance with the requirements of this policy by all concerned is
+mandatory and any breach or violation hereof may result in disciplinary
+action, including dismissal from employment, in accordance with due
+process. Any disciplinary action taken by the Company is without
+prejudice to other legal remedies it may have under applicable laws.\n\nConsistent with Par. 8, Section 2 of the Company\'s Code of Conduct,
+employees shall promptly report to his / her immediate superior any
+violation of this policy.</string>
+
+
+
+    // GRIEVANCE HANDLING PROCESS
+
+
+    <string name="grievance_1">Grievance is defined as a complaint or an expression of discontent
+due to a work-relationship problem, operational or policy problem.
+As opposed to a disciplinary case which is initiated and decided
+by management, a grievance is a concern raised by an employee.\n\n</string>
+    <string name="grievance_2">The following steps shall be followed in handling grievances:\n\n</string>
+    <string name="grievance_2_a">Employee presents his / her complaint / grievance to his / her
+Line Manager or through his / her DEC Representative or EC
+Presiding Officer (PO).\n\n</string>
+    <string name="grievance_2_b">The one who received the complaint shall acknowledge
+receipt in writing and shall follow through on the necessary
+actions to resolve the complaint.\n\n</string>
+    <string name="grievance_2_c">If the complaint is not resolved at the level of the Line Manager
+or the DEC / PO within 15 days, the matter shall be referred to
+the Divisional Grievance Committee (DGC).\n\n</string>
+    <string name="grievance_2_d">If the complaint is not resolved at the level of the DGC within
+15 days, the matter will be referred to the next level, the
+Employee Grievance Board (EGB). Decisions made at the level
+of the EGB are considered final and binding to all parties
+concerned.\n\n</string>
+
+    <string name="grievance_3">The grievance complaint should be submitted in writing together
+with supporting documents, to serve as basis of the evaluation of
+the complaint.\n\n</string>
+    <string name="grievance_4">Upon receipt of the complaint, the Line Manager or the DEC/EC
+PO shall evaluate and determine the validity of the complaint.\n\n</string>
+    <string name="grievance_5">Valid complaints shall be settled at the lowest possible level in
+the organization. If any member of the grievance channels is the
+subject of the complaint, he / she shall be required to abstain in
+the handling of the case.\n\n</string>
+    <string name="grievance_6">In cases wherein the complaint was immediately referred to
+the Divisional Grievance Committee or the Employee Grievance
+Board (EGB), the complaint shall be endorsed to the lowest level
+for proper action, where appropriate, depending on the nature of
+the complaint and parties involved.\n\n</string>
+    <string name="grievance_7">All parties involved in the complaint shall be properly informed
+and given an opportunity to present their side and the first
+opportunity to solve the complaint.\n\n</string>
+    <string name="grievance_8">Any valid complaint shall be resolved within a maximum period
+of fifteen (15) days from date of submission.\n\n</string>
+    <string name="grievance_9">All parties involved in the complaint shall be informed in writing
+regarding the resolution/decision on the case.\n\n</string>
+    <string name="grievance_10">An employee airing a valid complaint shall not be a subject of
+prejudice or any action of any nature from anyone. The EC shall
+monitor the developments of the case.\n\n</string>
+
+    //ROLES AND RESPONSIBILITIES
+
+
+    <string name="grievance2_roles_2.1">The DEC / PO shall perform the following in relation to grievance handling:\n\n</string>
+
+    <string name="grievance2_roles_a">Listen and receive complaints / grievances.\n</string>
+    <string name="grievance2_roles_b">Evaluate and establish the validity of complaints / grievances together with the employee based on existing company
+policies, rules and regulations.\n</string>
+    <string name="grievance2_roles_c">Verify and gather facts about the case and request for a
+meeting with the Line Manager concerned.\n</string>
+    <string name="grievance2_roles_d">Discuss and find solution to the case together with the Line
+Manager concerned within 15 days.\n</string>
+    <string name="grievance2_roles_e">Refer the case to the Divisional Grievance Committee (DGC) if
+the grievance is not solved at his / her level.\n</string>
+    <string name="grievance2_roles_2.2">The Divisional Grievance Committee (DGC) shall be composed of
+the EC Chairman, the Division Head of the complainant and the
+respective EC PO.\n\nThe DGC shall be responsible for the following:</string>
+    <string name="grievance2_roles_2.2_a">Receive the case elevated to it.\n</string>
+    <string name="grievance2_roles_2.2_b">Gather pertinent information and request for a mediation
+meeting with concerned parties to resolve the problem.\n</string>
+    <string name="grievance2_roles_2.2_c">Find solution to the case within fifteen (15) days after referral
+to it.\n</string>
+    <string name="grievance2_roles_2.2_d">Refer the case to the Employee Grievance Board (EGB) if the
+employee is not satisfied with the solution to the case or if the
+grievance is not solved at its level.\n</string>
+
+    <string name="grievance2_roles_2.3">The Employee Grievance Board (EGB) shall be composed of
+the Chief Operating Officer (COO), Head of Human Resources
+and Organization Development Division, Chairman of the
+Employees Council (EC) and three other representatives from top
+management appointed by the COO.\n\n</string>
+
+    <string name="grievance2_roles_2.4">The Employee Grievance Board (EGB) shall receive the case
+elevated to it by the DGC. It shall gather information and find
+solution to the case within fifteen (15) days after referral
+(extension may be allowed for valid reason).\n\n</string>
+
+
+    //Mediation meeting
+
+
+    <string name="grievance3_roles_3.1">The DEC / PO or Line Manager shall act as the mediator/facilitator
+of the mediation meeting. He / She may call for the meeting when
+a complaint is referred to him / her for resolution. The mediator
+also has the option to communicate with the parties together
+or any party separately. All concerned parties shall be properly
+informed of the meeting and shall be given copies of reference
+documents prior to the meeting.\n\n\n</string>
+
+    <string name="grievance3_roles_3.2">The attendees of the meeting shall be determined by the mediator.
+No observers / other attendees shall be allowed unless invited.\n\n</string>
+
+
+    <string name="grievance3_roles_3.3">The venue of the meeting shall be determined by the mediator,
+who shall ensure that it is acceptable to all parties concerned.\n\n</string>
+
+    <string name="grievance3_roles_3.4">The mediator shall ensure that meeting agreements are
+documented. The Minutes of the Meeting shall be prepared by
+the mediator for future reference. All parties involved shall be
+requested to sign the agreements / minutes.\n\n</string>
+
+    <string name="grievance3_roles_3.5">In opening the meeting, the mediator shall give a short explanation
+of the purpose of the meeting. Then, he / she shall discuss the
+issues indicated in the complaint and give both sides the chance
+to explain their side.\n\n</string>
+
+    <string name="grievance3_roles_3.6">Attendees should conduct themselves professionally. They
+shall avoid using foul language and personal attacks during the
+meeting. They should focus on the issue at hand and prevent the
+process from being side-tracked by unnecessary arguments. Other
+issues outside of the complaint may be discussed separately, if
+relevant and necessary.\n\n</string>
+
+
+    <string name="grievance3_roles_3.7">The Mediator may call for a recess / break during the meeting in
+the event of heated confrontation or uncomfortable situation to
+allow the parties to cool down or settle other matters outside the
+meeting.\n\n</string>
+
+
+    <string name="grievance3_roles_3.8">These guidelines shall also apply to succeeding meetings that
+might be conducted by the DGC or EGB. The DGC or EGB may
+request for the assistance of the DEC/EC PO in the documentation.\n\n</string>
+
+
+    //CONFIDENTIALITY OF INFORMATION
+
+    <string name="grievance3_role_4.1">Discussions, proceedings and agreements made in the mediation
+meeting, as well as expressions of opinion, individual or collective,
+shall be held strictly confidential. Attendees shall also uphold the
+confidentiality of related information and documents.\n\n</string>
+    <string name="grievance3_role_4.2">The DEC/EC PO, Line Manager, as well as Members of the DGC
+and EGB are not authorized to discuss the agreements/decision
+with other parties who are not involved in the complaint.\n\n</string>
+    <string name="grievance3_role_4.3">Divulging of confidential information related to grievance
+complaints shall be dealt with according to Company policies on
+confidentiality of information.\n\n</string>
+
+    //Grievance Others
+
+    <string name="grievance5_5.1">These Guidelines supersedes previously issued guidelines and
+undocumented practices.\n</string>
+    <string name="grievance5_5.2">Failure of Management or its officers to observe any step in the
+Guidelines does not invalidate the mediation proceedings.\n</string>
+    <string name="grievance5_5.3">In the event that a potential violation was discovered in the
+mediation meeting, the matter shall be studied separately and the
+possible disciplinary case shall be managed by the Line Manager,
+with the assistance of HROD – Workplace Conduct.\n</string>
+    <string name="grievance5_5.4">Management reserves its prerogative to modify, substitute or set
+aside the Guidelines.\n</string>
+
+
+    //Adminisrative cases
+
+    <string name="administrative_1">The procedures in handling disciplinary cases will be based on the Company
+Code of Conduct.\n</string>
+    <string name="administrative_2">As stated in the Code of Conduct, the following steps shall be followed in
+handling disciplinary cases:\n</string>
+    <string name="administrative_2_a">Informal / Preliminary investigation and verification of facts.\n</string>
+    <string name="administrative_2_b">Review Company Policy and / or Code of Conduct to determine the
+violation/offense.\n</string>
+    <string name="administrative_2_c">Report and / or Coordinate with Line Management.\n</string>
+    <string name="administrative_2_d">Coordinate with Human Resources Organization Development (HROD).\n</string>
+    <string name="administrative_2_e">Disciplinary Committee at the Division Level is formed / organized.\n</string>
+    <string name="administrative_2_f">Show Cause Memo is prepared and sent to concerned employee.\n</string>
+    <string name="administrative_2_g">Due Process Meetings are conducted by the Disciplinary Committee.\n</string>
+    <string name="administrative_2_h">Case is evaluated and deliberated upon by the Disciplinary Committee.\n</string>
+    <string name="administrative_2_i">Appropriate sanction is determined by the Disciplinary Committee.\n</string>
+    <string name="administrative_2_j">Memo/Resolution is prepared and sent to concerned employee
+informing him / her of the results of the investigation as well as the
+sanction to be imposed.\n\n</string>
+    <string name="administrative_2_k">Personnel Action Notice (PAN) is issued / sent and is attached to the 201
+file of the employee concerned.\n</string>
+
+    <string name="administrative_3">Line Management shall be responsible for gathering documents and
+evidences, conducting interviews with concerned parties and collecting all
+relevant proof/evidence to support the case.\n\n</string>
+    <string name="administrative_4">As soon as the Show Cause Memo is prepared, Line Management shall
+provide the Workplace Conduct (WC) person in HROD with a copy for review.
+WC shall review all documents and evidence and shall submit the same to
+Legal for preliminary evaluation.\n\n</string>
+    <string name="administrative_5">The Show Cause Memo and Discipline Notice shall be personally served
+by Line Management on the employee. In the event that the employee
+has not reported for work, the document shall be personally delivered to
+the employee\'s address in the 201 file and, if applicable, at his last known
+address in a sealed envelope. A copy of the Memo / Notice may also be sent
+via registered mail (with return card) to the employee\'s address in the 201
+file and, if applicable, at his last known address. The return card shall form part of the case documentation. The person who served the Show Cause
+Memo or Discipline Notice shall submit a report to HROD narrating the
+circumstances of the service.\n\n\n\n</string>
+    <string name="administrative_6">If the employee refuses to receive the Memo/Notice, the person who served
+the document should indicate in the Memo / Notice, the statement \"refused
+to sign / receive\". A copy of the document shall be tendered to the employee
+concerned even if he / she refuses to acknowledge receipt. The person who
+served the Memo shall execute an Affidavit of Service for this purpose.\n\n</string>
+    <string name="administrative_7">Line Management shall provide WC with a copy of the originally signed Show
+Cause Memo and Discipline Notice received by the employee concerned for
+documentation purposes.\n\n</string>
+
+
+    //article II
+
+    <string name="administrative_1_1">The Divisional Disciplinary Committee, simply referred hereafter as the
+\"Committee\", is the body responsible for evaluating and deliberating
+disciplinary cases. It shall be formed for purposes of hearing and disposing
+of cases of employees under them.\n\n</string>
+    <string name="administrative_1_2">The Committee shall be composed of the Group/Division Head (may
+designate a representative), the Immediate Superior, Training Manager (if
+applicable) and the Employees Council Presiding Officer (PO). The PO is
+expected to ensure that the rights of the employee subject of the proceeding
+are protected. The Committee may call resource persons to help them
+evaluate the case. For Sexual Harassment cases, the Sexual Harassment
+Committee will be formed based on the composition stated in the Code of
+Conduct.\n\n\n</string>
+    <string name="administrative_1_3">In case a Committee member will be unable to attend, the Division Head
+may designate a substitute who will participate in the process.\n</string>
+    <string name="administrative_1_4">The Committee may be convened prior to the administrative hearing for
+alignment purposes, as soon as the case has been formalized or there is
+already a clearance to proceed with the case.\n\n</string>
+    <string name="administrative_1_5">The evaluation and deliberation of disciplinary cases shall be the
+responsibility of the Committee following the process stated herein. It will be assisted by a representative from WC, HROD to facilitate the deliberation
+and provide support tools or references for decision making.\n\n</string>
+    <string name="administrative_1_6">The Committee will decide by consensus. In the event that no consensus is
+reached by the Committee, the highest ranking member of the Committee,
+may elevate the matter for approval of the intermediate superior or next
+level of authority.\n\n</string>
+    <string name="administrative_1_7">Except for decisions involving termination of employment, the Decision of
+the Committee, or the appropriate person under paragraph 2.6 herein, shall
+be final and immediately executory, notwithstanding any appeal made by
+the employee.\n\n</string>
+
+    ///Article III
+
+    <string name="administrative_2_1">The Employee Discipline Board, simply referred hereafter as the \"EDB\", is
+the highest advisory and decision-making body involved in handling matters
+related to employee discipline.\n\n</string>
+    <string name="administrative_2_2">The EDB shall be composed of the Chief Operating Officer (COO), Head of
+Human Resources and Organization Development Division, the Chairman
+of the Employees Council (EC) and three other representatives from top
+management appointed by the COO.\n\n\n</string>
+    <string name="administrative_2_3">The COO shall be the Chairman of the EDB. The Head of Human Resources
+and Organization Development Division will be the Secretary of the Board.\n\n</string>
+    <string name="administrative_2_4">The EDB shall automatically review all decisions on termination made by
+the Divisional Disciplinary Committee. It shall also address appeals or
+concerns referred to it pertaining to decisions on disciplinary cases. They
+will deliberate and decide following the process stated herein.\n\n\n</string>
+    <string name="administrative_2_5">The EDB may convene for a special meeting based on the approval of the
+Chairman, EDB. A meeting could not be held without proper quorum.\n\n</string>
+    <string name="administrative_2_6">The EDB may invite resource persons during its meeting or deliberation to
+be resource persons; however the resource persons are not empowered to
+vote.\n\n</string>
+    <string name="administrative_2_7">Each member of the EDB shall be entitled to only one vote. Decision making
+is through majority vote. Once a decision is made by the Board, it shall be
+considered final and executory.\n\n</string>
+
+
+    //Article IV
+
+    <string name="administrative_3_1">Evidence shall be properly secured by line management. Copies of said
+evidence shall be provided to HROD and Legal for review and evaluation
+prior to issuance of the Show Cause Memo.\n\n</string>
+    <string name="administrative_3_2">For cases requiring Affidavits of doctors or witnesses, proper information
+should be given to the doctor / witness prior to signing the document. It
+should be explained that they should read and attest to the truth of the
+statements and that the document will be used in any forum against the
+employee.\n\n</string>
+    <string name="administrative_3_3">Affidavits of doctors / witnesses should be duly notarized. The document
+should be notarized in the area where the doctor / witness is located or based
+and he / she should be physically present during notarization. If the doctor/
+witness is not willing to appear before a notary, the document may be left
+unnotarized but signed by the doctor / witness.\n\n\n</string>
+    <string name="administrative_3_4">For cases based on Audit findings, a copy of the final Audit Report should
+be submitted to HROD, Legal and the Division concerned for review and
+evaluation.\n\n</string>
+    <string name="administrative_3_5">Audit shall be involved in the investigation of cases involving fraud / forgery
+especially if it involves company funds.\n\n</string>
+
+
+    //Article V
+
+    <string name="administrative_4_1">All members of the Committee should be properly informed by the Training
+Manager/Line Manager of the facts and evidence prior to the conduct of
+the hearing. An administrative briefing shall be conducted by WC thirty (30)
+minutes before the hearing for alignment purposes.\n\n</string>
+    <string name="administrative_4_2">The presence of the Immediate Superior and the employee\'s PO is required
+during the administrative hearing. The employee\'s PO shall assist the
+employee during the hearing and ensure that due process will be given to
+the employee.\n\n</string>
+    <string name="administrative_4_3">Only members of the Committee and the WC person from HROD are allowed
+to attend the hearing. No observers/other attendees will be allowed unless
+invited.\n\n</string>
+    <string name="administrative_4_4">In the event that an employee decides to be represented by a legal counsel,
+a representative from Legal Services shall be requested to participate in the
+hearing.\n\n</string>
+    <string name="administrative_4_5">The participation of the external counsel of the employee is limited and
+he / she is not allowed to conduct cross-examination of the employee. All
+questions should be coursed through the employee and the counsel cannot
+dictate the process on how the hearing will be conducted. The procedures
+that will prevail are those stated in the Code of Conduct and Guidelines in
+Handling Disciplinary Cases and not the Rules of Court.\n\n</string>
+    <string name="administrative_4_6">A representative from WC, HROD shall act as Facilitator of the administrative
+hearing. he / she shall ensure that the proceedings will be carried out
+properly based on required process. The Training Manager (if applicable)
+shall serve as co-facilitator to address operational issues and concerns that
+may arise during the hearing.\n\n</string>
+    <string name="administrative_4_7">The entire proceeding will be recorded through a voice recorder. The Minutes
+of the Hearing shall be deemed a correct statement of such comments
+unless comments are received from the members of the Committee.\n\n</string>
+    <string name="administrative_4_8">To officially open the hearing, the highest ranking member of the Committee will give a short opening statement and explain to the employee the purpose
+of the proceedings. The Facilitator shall discuss the charges against the
+employee and the corresponding penalties. Members shall ask questions
+which will help them clarify issues and decide on the case.\n\n</string>
+    <string name="administrative_4_9">Members should avoid using foul language and personal attacks during the
+hearing. They should focus on the case at hand and prevent the process
+from being side-tracked by unnecessary procedural disputes. Other issues
+outside the case shall be discussed separately in another meeting or
+hearing.\n\n</string>
+    <string name="administrative_4_10">A Recess (Break) can be requested by the members or initiated by the
+Facilitator in the event of confrontation or uneasy situation to allow the
+parties to cool down or settle other matters outside the hearing.\n\n</string>
+    <string name="administrative_4_11">After the hearing proper, the employee concerned shall be excused and
+the Committee will proceed with the case deliberation. Members of the
+Committee should exercise objectivity, fairness and impartiality during
+deliberation.\n\n</string>
+    <string name="administrative_4_12">After a consensus has been reached on the decision, all members of the
+Committee shall uphold the corresponding resolution. Except for decisions
+involving termination, the decision of the Committee shall be final and
+executory.\n\n</string>
+
+    //Article w
+    <string name="administrative_4_1_1">All documents, evidence, proceedings and deliberations of the Committee / EDB, as well as expressions of opinion and votes, individual or collective,
+are strictly confidential. Members of the Committee / EDB, therefore, shall
+uphold the confidentiality of cases.\n\n</string>
+
+    <string name="administrative_4_2_2">Members of the Committee / EDB are not authorized to discuss the decision
+of the Committee / EDB with the employee concerned until the official
+Discipline Notice has been released.\n\n</string>
+    <string name="administrative_4_3_3">Divulging of confidential information related to disciplinary cases shall be
+dealt with accordingly.\n\n</string>
+
+    //Article VI
+
+    <string name="administrative_5_1">In making decisions, the Committee shall take into consideration the legal
+implications of the case based on the comments provided by Legal Services.
+Recommendations that could result to potential labor cases will be reviewed
+before a penalty is finalized.\n\n</string>
+    <string name="administrative_5_2">In cases wherein a decision has been reached by the Committee already,
+Legal Services can recommend a review of the imposable penalty if, upon
+evaluation, it has been found that there is sufficient evidence to support a
+higher or lower penalty.\n\n</string>
+    <string name="administrative_5_3">Recommendations of Legal regarding imposable penalties will be subject
+to approval of the Committee. However, in case Legal opines that a Decision
+of the Committee may expose the Company to potential legal liability, the
+Committee cannot implement its decision without the approval of the COO.\n\n</string>
+
+
+    //Article VIII
+
+    <string name="administrative_6_1">Penalties are immediately executory upon actual or constructive receipt by
+the employee. For employees who cannot be located or cannot be personally
+served, the notices will be sent to their addresses in their 201 File.\n\n</string>
+    <string name="administrative_6_2">The enforcement of penalties shall be handled by Line Management. All
+coordination with concerned offices as well as recall of company properties
+shall be made by the Training Manager/Immediate Superior of the employee.\n\n</string>
+    <string name="administrative_6_3">For suspension as penalty, Line Management shall communicate with
+Finance the schedule of suspension to facilitate salary suspension. Line will
+be responsible in ensuring recall of company properties during the period of
+suspension.\n\n</string>
+    <string name="administrative_6_4">For termination as penalty, Line Management shall ensure recall of
+company properties immediately upon receipt of the termination notice by
+the employee. In case the employee will refuse to receive or sign the notice,
+the termination will still be effective and the person who served the notice
+shall submit a report to WC narrating the circumstances of the service.\n\n</string>
+    <string name="administrative_6_5">The penalty of "Verbal Reprimand" shall be communicated to the WC person
+and will require the issuance of the Personnel Action Notice (PAN) by WC. It
+shall form part of the employee\'s 201 file.\n</string>
+    <string name="administrative_6_6">Employees who are given a penalty of Suspension will not be entitled to
+promotion for a period of two (2) years.\n</string>
+    <string name="administrative_6_7">The impact of administrative cases to entitlement to incentives or awards
+will be subject to the applicable mechanics covering the said programs.\n</string>
+    <string name="administrative_6_8">While on suspension, the employee can still enjoy the usual benefits to
+which he / she is entitled.\n</string>
+    <string name="administrative_6_9">Original copies of the evidence and the records of the case shall form part of
+the employee\'s 201 File. Only photocopies will be provided to other offices,
+such as Line, Legal, and EC.\n\n</string>
+
+    //Article IX
+
+    <string name="administrative_7_1">The Guidelines were issued to help concerned officers in administering
+disciplinary processes. This will supersede all other existing guidelines,
+manuals or instructions issued prior to publication of this set of guidelines.\n\n</string>
+    <string name="administrative_7_2">Nothing herein shall be construed as overriding the general principle that a
+disciplinary action is purely a management prerogative.\n</string>
+    <string name="administrative_7_3">Failure of Management or its officers to observe any step in the Guidelines
+does not invalidate the proceedings against an employee, provided that due
+process was afforded the employee in any manner. This is without prejudice
+to Management\'s prerogative to discipline the erring officer.\n\n\n</string>
+    <string name="administrative_7_4">If circumstances would warrant, the Committee may approve to disregard
+the Guidelines to a particular case, provided that, in any case, due process
+must be afforded to the employee.\n</string>
+    <string name="administrative_7_5">Management reserves its prerogative to modify, replace or set aside the
+Guidelines.\n</string>
+
+
+    <string name="disclaimer">This application is intended for authorized Unilab individuals only. It must not be reproduced or utilized in whole or in part, in any form, or by any means without formal agreement or written consent from the information owner.</string>
+
+
+    //linis
+
+    <string name="company_property_and_rights_1">5 days suspension up to dismissal depending on the gravity of the offense , seriousness of consequences, and value of the Property.</string>
+
+
+    //breastfeeding
+
+
+    <string name="breat_rationale">UNILAB INC. (hereinafter referred as \"Unilab\" or \"company\") supports the national policy on breastfeeding by providing safe and healthful working conditions to working women, taking into account their maternal functions, and such facilities and opportunities that will enhance their welfare and enable them to combine family obligations with work responsibilities. This policy is designed to encourage, protect and support the practice of breastfeeding in the company.\n\nThis policy is in pursuant to the provisions of Republic Act No. 10028, otherwise known as the \"Expanded Breastfeeding Promotion Act of 2009\".\n\n</string>
+
+    <string name="breat_definitions">For the purpose of this policy, the following definitions shall apply:</string>
+    <string name="breat_definitions_1">Breastfeeding - the method of feeding an infant directly from the human breast.</string>
+    <string name="breat_definitions_2">Breastmilk - the human milk from a mother.</string>
+    <string name="breat_definitions_3">Expressed breastmilk - the human milk which has been extracted from the breast by hand or by breast pump. It can be fed to an infant using a dropper, a nasogastric tube, a cup and spoon, or a bottle.</string>
+    <string name="breat_definitions_4">Expressing milk - the act of extracting human milk from the breast by hand or by pump into a container.</string>
+    <string name="breat_definitions_5">Lactation stations - private, clean, sanitary, and well-ventilated rooms or areas within the Unilab premises where nursing mothers can wash up, breastfeed or express their milk comfortably and store this afterward. Also known as Mother\'s Room.</string>
+    <string name="breat_definitions_6">Nursing employee - any female worker, regardless of employment status, who is breastfeeding her infant and / or young child.</string>
+
+    <string name="breat_policies_and_guidelines_1">Mothers Room shall be available for employees to breastfeed or express milk on a first-come, first-served basis. It is exclusive for nursing employees only and companions are not allowed inside the station or the clinic.</string>
+    <string name="breat_policies_and_guidelines_2">If nursing employees prefer, they may also breastfeed or express milk in their own private offices, or in other comfortable locations agreed upon in consultation with the immediate supervisor of the nursing employees. Expressed milk can be stored in designated refrigerators provided in the Mother\'s Room or other location in nursing employees\' personal coolers.</string>
+    <string name="breat_policies_and_guidelines_3">Nursing employees shall be granted break intervals in addition to the regular time-off for meals to breastfeed or express milk. These intervals, which shall include the time it takes a nursing employee to get to and from the Mother\'s Room, shall be counted as compensable work hours. Such break intervals shall be for a total of forty five (45) minutes within a workday. A nursing employee could take 2-3 breastmilk expressions/break intervals lasting 15-30 minutes each within a workday but in no case shall the total break intervals exceed 45 minutes as previously mentioned.</string>
+    <string name="breat_policies_and_guidelines_4">Nursing employees who wish to express milk during the work period shall keep their immediate supervisors informed of their needs so that appropriate accommodations can be made to satisfy the needs of both the nursing employee and the company by accomplishing the Application for Use of Mother\'s Room Facilities. Nursing employees should notify their immediate supervisors before leaving their work stations.</string>
+    <string name="breat_policies_and_guidelines_5">Nursing employees shall observe the prescribed guidelines on the use of the Mother\'s Room and are responsible for keeping it clean for the next user. This responsibility extends to both designated lactation stations, as well as other areas where expressing milk will occur.</string>
+    <string name="breat_policies_and_guidelines_6">Nursing employees must bring their own pump and storage containers for milk and should label all milk expressed with their name and date collected so it is not inadvertently confused with another employee\'s milk. Each nursing employee is responsible for proper storage of her milk using the designated refrigerators provided in the Mother\'s Room or other location in employee\'s personal coolers, and taking it home at the end of each work period. Designated refrigerators in the Mother\'s Room shall only be used for breastmilk storage.</string>
+    <string name="breat_policies_and_guidelines_7">Loitering or sleeping inside the Mother\'s Room is strictly prohibited.</string>
+
+
+    <string name="breat_programs_1">Unilab shall ensure that the workplace policies and programs on breastfeeding shall be properly disseminated to all employees.</string>
+    <string name="breat_programs_2">Unilab shall conduct orientation-education programs to raise awareness on the importance of and to further promote breastfeeding, which program shall be provided by the Employee Relations Group and the Employees\' Council. Topics in the orientation-education program shall include the following:</string>
+    <string name="breat_programs_2_a">Benefits and superiority of breastfeeding and the high risks and costs of bottlefeeding;\n</string>
+    <string name="breat_programs_2_b">Information on combining breastfeeding and work once the employee returns to work;\n</string>
+    <string name="breat_programs_2_c">Salient features of Republic Act No. 10028 and its Implementing Rules and Regulations\n</string>
+    <string name="breat_programs_2_d">Other policies and programs relating to workplace breastfeeding; and\n</string>
+    <string name="breat_programs_2_e">Preventive measures against infant formula and / or breastmilk substitutes.\n</string>
+    <string name="breat_programs_3">Unilab shall ensure the dissemination of this policy and its control measures and administration guidelines to all of its employees.</string>
+
+
+
+
+    Policy on business conduct
+
+
+    <string name="policy_business">All key personnel, full-time consultants and identified employees of Unilab and its subsidiaries, hereinafter referred to as employees, must avoid situations that will give rise to a conflict of interest.</string>
+    <string name="conflict_of_interest_a">A conflict of interest may be said to exist when:</string>
+    <string name="conflict_of_interest_a1">An employee performs a dual role as employee of the company and as a supplier and/ or customer of the company, or</string>
+    <string name="conflict_of_interest_a2">An employee is involved personally in an organization or an activity, aims of which constitute a threat to the business of the company, or,</string>
+    <string name="conflict_of_interest_a3">where no such threat exists, an employee spends in such personal involvement part of the total working time required by the company.</string>
+    <string name="conflict_of_interest_b">All employees, therefore, are well advised to do the following:</string>
+    <string name="conflict_of_interest_b1">Inhibit themselves and members of their immediate families from transacting personal business with the company, directly or indirectly through nominees.  The  company may allow such transactions on arms length commercial terms and upon full disclosure in writing to the company.  However, such transactions may be reviewed by the company from time to time to determine whether or not to continue to engage in them.</string>
+    <string name="conflict_of_interest_b2">Avoid engaging, directly or indirectly through nominees, in activities that may tend to compete with the company, except:</string>
+    <string name="conflict_of_interest_b2_a">Owning an insubstantial share in publicly traded securities of a competitor (defined as not more than one percent of the outstanding shares)or\n</string>
+    <string name="conflict_of_interest_b2_b">Entering into a transaction or relationship disclosed in writing to and approved by the company.\n</string>
+    <string name="conflict_of_interest_b3">Unsolicited gifts or personal favors may come from suppliers, customers and competitors of the company.  Whatever the motives behind such gifts or personal favors, as a general rule, polite refusal of unsolicited gifts or personal favors, in writing or verbally is in order.If such is not possible or practical, disclosure in writing to the company of such gifts or personal favors may be necessary. However, no such refusal or disclosure is necessary for gifts of reasonable or no commercial value or for such courtesies as dining and entertainment to promote general business goodwill.\n\nIt is acknowledged here that the determination of the appropriateness of a gift or personal favor is relative and subjective, especially when social positions or cultural differences are considered. Therefore, in case of doubt, an employee may seek guidance from the relevant immediate superior and/ or Division Head.\n\n</string>
+    <string name="conflict_of_interest_b3_a">If such is not possible or practical, disclosure in writing to the company of such gifts or personal favors may be necessary.  However, no such refusal or disclosure is necessary for gifts of reasonable or no commercial value or for such courtesies as dining and entertainment to promote general business goodwill.</string>
+    <string name="conflict_of_interest_b3_b">It is acknowledged here that the determination of the appropriateness of a gift or personal favor is relative and subjective, especially when social positions or cultural differences are considered.    Therefore, in case of doubt, an employee may seek guidance from the relevant immediate superior and/ or Division Head.</string>
+    <string name="conflict_of_interest_b4">Inform the company through written disclosure of the employment of their spouses or other immediate family members by a competitor, supplier, or customer.</string>
+    <string name="conflict_of_interest_b5">Disclose in writing outside business interests, directorships, and company affiliations.</string>
+    <string name="conflict_of_interest_c">For purpose of the conflict of interest policy, the term “immediate family” means an employee’s spouse, parents, children, or any person who lives in the same household.</string>
+    <string name="handling_information_1">Use of Information – All employees who are given or may have access to confidential information on the business plans and transactions of the company, are advised against using such confidential information to undertake personal business transactions for personal profit.    In case of doubt, disclosure in writing of personal business plans and approval thereof from the company may be necessary.</string>
+    <string name="handling_information_2">Confidentiality of Information – All employees shall exercise utmost discretion in handling of company information, especially such sensitive information on the company’s plans and transactions as may compromise the company’s business.  All employees shall maintain at all times the secrecy of information deemed confidential.  No disclosure of such information to parties outside the company shall be allowed except when clearance is sought and given, in which case steps should be undertaken by all employees to insure that its dissemination is handled with discretion, through appropriate authorized channels.\n\n</string>
+    <string name="handling_information_3">Surrender of Information – All employees upon leaving the company, through resignation or retirement, shall be required to surrender all company documents in their possession in whatever form or medium, especially such documents as may contain information on business plans, transactions, and trade secrets.</string>
+    <string name="political_civic_professional_activities">The company does not restrict individual participation by employees in political and civil activities, and their personal financial support for the candidate or political party of their choice or for the civic organization of their choice; nor does the company prohibit private practice of professions by employees, so long as these political, civic, and professional activities do not in any way constitute a threat to the company’s business and operations or violate existing company rules and regulations on work and attendance.    For this purpose, employees shall disclose in writing membership and position in political, civic and professional organizations.\n\n</string>
+    <string name="duty_seek_guidance">Any employee who have any questions regarding these standards have a duty to seek guidance.    Such questions shall be presented to the immediate superior and/ or Division Head, who shall refer the same to a group designated to provide guidance by the company.</string>
+    <string name="policy_business_conduct_violations">An employee who deliberately makes false written disclosures or who willfully refuses to comply with the policies stated in the foregoing may be subjected to disciplinary action.</string>
+    <string name="implementation_1">Annual Written Disclosure – All employees shall be required annually to certify in writing that they have personally read and understood these policies and that they have made written disclosures which, to the best of their knowledge, are complete and truthful.</string>
+    <string name="implementation_2">Secrecy of Disclosures – All employee disclosures shall be treated with strict confidentiality. The management of the disclosure documents, that is, access to and disposal of such files shall reside with the President &amp; CEO (for the positions of VPs and above) and with HROD (for the positions of DVPs and below).</string>
+    
+    //Add Comment
+    
+
+</resources>
+
+
