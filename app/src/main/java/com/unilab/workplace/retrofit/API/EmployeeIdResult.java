@@ -10,7 +10,6 @@ import java.util.List;
  */
 public class EmployeeIdResult {
     @SerializedName("data")
-
     @Expose
     private List<EmployeeIdModel> data = null;
 
@@ -19,7 +18,9 @@ public class EmployeeIdResult {
     }
 
     public void setData(List<EmployeeIdModel> data) {
+
         this.data = data;
+
     }
 
 }

@@ -9,6 +9,7 @@ import android.content.pm.PackageInfo;
 import android.graphics.Typeface;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -112,7 +113,6 @@ public class FragmentLogin extends Fragment implements Callback<EmployeeIdResult
 
         //databasecreate
         DatabaseHelper.createDatabase(l_context, new AppDb());
-
         //open class
         empTable = new EmpTable(l_context);
 //        empTable.getAllElements();//debug
@@ -122,7 +122,7 @@ public class FragmentLogin extends Fragment implements Callback<EmployeeIdResult
         dialog.getWindow().requestFeature(Window.FEATURE_NO_TITLE);
         dialog.getWindow().setBackgroundDrawable(new ColorDrawable(android.graphics.Color.TRANSPARENT));
         dialog.setContentView(R.layout.dialog_no_connection);
-
+//        HttpsTrustManager.allowAllSSL();
         return view;
     }
 
@@ -201,10 +201,11 @@ public class FragmentLogin extends Fragment implements Callback<EmployeeIdResult
             case R.id.btn_login:
                 employee_number = edtEmpNumber.getText().toString();
                 Constants.t_id = employee_number;
+
                 //online
                 if (Utils.isNetworkAvailable(l_context)) {
 
-                    if (employee_number.trim().length() > 0 && tv_date.getText().length() > 0) {
+//                    if (employee_number.trim().length() > 0 && tv_date.getText().length() > 0) {
 
                         //api level
 //                            new HttpAsyncTask2().execute(employee_number);
@@ -214,18 +215,19 @@ public class FragmentLogin extends Fragment implements Callback<EmployeeIdResult
                         progressDialog.setCancelable(false);
                         progressDialog.show();
                         //initializeRetrofit();
+
                         Call<EmployeeIdResult> call = initializeRetrofit().postUser(employee_number);
                         call.enqueue(this);
 
-                    } else {
-
-                        String title = "Login Error";
-                        String msg = "Employee number and/or date of birth are empty.";
-                        CustomDialog alertDialog = new CustomDialog(l_context, title, msg);
-                        alertDialog.show();
-                        Utils.animShake(l_context, llt_emp_number);
-                        Utils.animShake(l_context, llt_emp_number_2);
-                    }
+//                    } else {
+//
+//                        String title = "Login Error";
+//                        String msg = "Employee number and/or date of birth are empty.";
+//                        CustomDialog alertDialog = new CustomDialog(l_context, title, msg);
+//                        alertDialog.show();
+//                        Utils.animShake(l_context, llt_emp_number);
+//                        Utils.animShake(l_context, llt_emp_number_2);
+//                    }
 
                 } else {
                     // MARK : 031317 RFC REMOVED OFFLINE LOGIN FROM APP
@@ -249,7 +251,10 @@ public class FragmentLogin extends Fragment implements Callback<EmployeeIdResult
                 break;
         }
     }
-
+    public void postUser(EmployeeIdResult user, Callback<EmployeeIdResult> callback) {
+        Call<EmployeeIdResult> userCall = initializeRetrofit().postUser(employee_number);
+        userCall.enqueue(callback);
+    }
     /**
      * Modified by: Alvin Raygon
      * <p/>
@@ -358,9 +363,16 @@ public class FragmentLogin extends Fragment implements Callback<EmployeeIdResult
     //retrofit
     public static WorkplacePostInterFaceApi initializeRetrofit() {
         Gson gson = new GsonBuilder().setDateFormat("yyyy-MM-dd'T'HH:mm:ssZ").setLenient().create();
-        Retrofit retrofit = new Retrofit.Builder().baseUrl("http://161.202.23.41/").addConverterFactory(GsonConverterFactory.create(gson))
-                .build();
-        WorkplacePostInterFaceApi interfaceApi = retrofit.create(WorkplacePostInterFaceApi.class);
+        // https://13.251.94.215/GetAllVersion.php
+        // old url  http://161.202.23.41/
+        String baseUrl = "https://mobileworkplace.unilab.com.ph/";
+        Retrofit retrofit = new Retrofit.Builder()
+                .baseUrl(baseUrl)
+                .addConverterFactory(GsonConverterFactory
+                .create(gson)).build();
+
+        WorkplacePostInterFaceApi interfaceApi = retrofit.
+                create(WorkplacePostInterFaceApi.class);
 
         return interfaceApi;
     }
@@ -368,12 +380,22 @@ public class FragmentLogin extends Fragment implements Callback<EmployeeIdResult
     @Override
     public void onResponse(Call<EmployeeIdResult> call, Response<EmployeeIdResult> response) {
 
+
+
         progressDialog.dismiss();
+
+        Log.e(TAG, "onResponseApi: "+ response.body());
         //try catch here
 
         try {
+
             List<EmployeeIdModel> data = response.body().getData();
             //Log.e(TAG, "" + data.toString());
+
+            Log.e(TAG, "onResponse: " + data.toString());
+
+
+
             //Log.e(TAG, "size:" + data.size());
             for (int x = 0; x < data.size(); x++) {
                 tempId = data.get(x).getEmpId();
@@ -413,6 +435,7 @@ public class FragmentLogin extends Fragment implements Callback<EmployeeIdResult
                 validateDataReceived();
             }
         } catch (Exception e) {
+
             e.printStackTrace();
             //Log.e(TAG,"catch entered");
             String title = "Login Error";

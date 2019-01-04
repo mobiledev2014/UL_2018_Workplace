@@ -1,14 +1,6 @@
 package com.unilab.workplace.retrofit.API;
 
 
-import com.google.gson.annotations.Expose;
-import com.google.gson.annotations.SerializedName;
-import com.unilab.workplace.retrofit.post.ModelPostEmployee;
-import com.unilab.workplace.retrofit.post.ResultPostEmployee;
-
-import java.util.ArrayList;
-import java.util.List;
-
 import retrofit2.Call;
 import retrofit2.http.Field;
 import retrofit2.http.FormUrlEncoded;
@@ -31,7 +23,7 @@ public interface WorkplacePostInterFaceApi {
 
     // post
     @FormUrlEncoded
-    @POST("GetUserData.php/")
+    @POST("GetUserData.php")
     Call<EmployeeIdResult> postUser(@Field("emp_id") String emp_id);
 
 

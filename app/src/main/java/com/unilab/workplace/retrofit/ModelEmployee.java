@@ -22,6 +22,7 @@ public class ModelEmployee {
     private String terr;
     @SerializedName("competency")
     @Expose
+
     private String competency;
     @SerializedName("date")
     @Expose

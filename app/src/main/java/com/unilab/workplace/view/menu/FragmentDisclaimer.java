@@ -415,7 +415,7 @@ public class FragmentDisclaimer extends Fragment implements Callback<EmployeeIdR
     }
     public static WorkplacePostUserAgreementInterFaceApi initializeRetrofitAgreementDisclaimer() {
         Gson gson = new GsonBuilder().setDateFormat("yyyy-MM-dd'T'HH:mm:ssZ").setLenient().create();
-        Retrofit retrofit = new Retrofit.Builder().baseUrl("http://161.202.23.41/").addConverterFactory(GsonConverterFactory.create(gson))
+        Retrofit retrofit = new Retrofit.Builder().baseUrl("https://mobileworkplace.unilab.com.ph/").addConverterFactory(GsonConverterFactory.create(gson))
                 .build();
         WorkplacePostUserAgreementInterFaceApi interfaceApi = retrofit.create(WorkplacePostUserAgreementInterFaceApi.class);
         //Log.i("j2", "j2");

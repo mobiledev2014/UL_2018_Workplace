@@ -3,14 +3,14 @@ apply plugin: 'com.android.application'
 android {
     signingConfigs {
     }
-    compileSdkVersion 24
+    compileSdkVersion 26
     buildToolsVersion '25.0.0'
     defaultConfig {
         applicationId "com.unilab.workplace"
         minSdkVersion 15
-        targetSdkVersion 24
-        versionCode 8
-        versionName "1.8"
+        targetSdkVersion 26
+        versionCode 12
+        versionName "1.11"
     }
     buildTypes {
         release {
@@ -25,11 +25,14 @@ android {
 
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
-    compile 'com.android.support:appcompat-v7:24.1.1'
+    compile 'com.android.support:appcompat-v7:26.1.0'
     compile files('libs/butterknife-7.0.1.jar')
     compile 'com.github.bluejamesbond:textjustify-android:2.1.6'
     compile project(':design-24.0.0')
     compile 'uk.co.chrisjenx:calligraphy:2.1.0'
     compile 'com.uncopt:android.justified:1.0'
     compile 'org.jbundle.util.osgi.wrapped:org.jbundle.util.osgi.wrapped.org.apache.http.client:4.1.2'
+
+    compile 'com.backendless:backendless:3.0.24'
+
 }

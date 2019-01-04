@@ -600,7 +600,7 @@ public class FragmentMain extends Fragment implements Callback<EmployeeIdResult>
 
     public static WorkplacePostUserAgreementInterFaceApi initializeRetrofitAgreement() {
         Gson gson = new GsonBuilder().setDateFormat("yyyy-MM-dd'T'HH:mm:ssZ").setLenient().create();
-        Retrofit retrofit = new Retrofit.Builder().baseUrl("http://161.202.23.41/").addConverterFactory(GsonConverterFactory.create(gson))
+        Retrofit retrofit = new Retrofit.Builder().baseUrl("https://mobileworkplace.unilab.com.ph/").addConverterFactory(GsonConverterFactory.create(gson))
                 .build();
         WorkplacePostUserAgreementInterFaceApi interfaceApi = retrofit.create(WorkplacePostUserAgreementInterFaceApi.class);
 
@@ -669,7 +669,7 @@ public class FragmentMain extends Fragment implements Callback<EmployeeIdResult>
                     new BasicHttpParams());
 
 //            HttpPost httppost = new HttpPost("http://jhunleo.hol.es/workplace/GetAllVersion.php");
-            HttpPost httppost = new HttpPost("http://161.202.23.41/GetAllVersion.php");
+            HttpPost httppost = new HttpPost("https://mobileworkplace.unilab.com.ph/GetAllVersion.php");
             InputStream inputStream = null;
             String result = "";
             try {

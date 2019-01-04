@@ -14,6 +14,7 @@ public class ControlActivity extends Activity {
      * @return must always be type of ControlApplication! See AndroidManifest.xml
      */
     public ControlApplication getApp() {
+
         return (ControlApplication) this.getApplication();
     }
 

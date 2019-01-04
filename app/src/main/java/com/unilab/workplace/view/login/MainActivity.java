@@ -113,7 +113,6 @@ public class MainActivity extends ControlActivity {
 
         }
 
-
         CalligraphyConfig.initDefault(new CalligraphyConfig.Builder()
                 .setDefaultFontPath("fonts/Candara.ttf")
                 .setFontAttrId(R.attr.fontPath)
